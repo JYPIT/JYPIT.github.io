@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /https://blog.naver.com/jypit/
+    url:               "https://blog.naver.com/jypit"
   - title:             Projects
     url:               /projects/
   - title:             Résumé*
