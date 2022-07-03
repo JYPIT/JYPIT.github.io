@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
+  name: "Park Junyeob"
   label: "Programmer"
   picture: "https://via.placeholder.com/240x240"
   email: ""
@@ -29,7 +29,7 @@ basics:
       username: "RHendricksCEO"
       url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "Park Junyeob"
       url: ""
 work:
   - company: "Pied Piper"
@@ -45,15 +45,7 @@ work:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
