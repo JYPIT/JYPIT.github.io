@@ -11,11 +11,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            \assets\img\solar_eclipse.jpg
+    path:            \assets\img\eclipse.gif
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            \assets\img\solar_eclipse.jpg
-      2x:            \assets\img\solar_eclipse.jpg
+      1x:            \assets\img\eclipse.gif
+      2x:            \assets\img\eclipse.gif
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
