@@ -17,7 +17,7 @@ url:                   https://jypit.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko-KR
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Eclipse
@@ -47,14 +47,17 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               "https://blog.naver.com/jypit"
-  - title:             Projects
-    url:               /projects/
   - title:             Résumé*
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Projects
+    url:               /projects/
+  - title:             Study
+    url:               /study/
+  - title:             Post
+    url:               /posts/ 
+  - title:             Blog
+    url:               "https://blog.naver.com/jypit"
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -70,11 +73,11 @@ legal:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /blog/:num/
+paginate:              5
+paginate_path:         /posts/page/:num/
 
 
 # Theme
@@ -171,11 +174,14 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      G-WC7ZXHL0ZS
+google_analytics:      G-WC7ZXHL0ZS
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <Eclipse>
+comments:
+  provider:            disqus
+
+disqus:                Eclipse
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
@@ -338,7 +344,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-
 # SEO Tag
 # ---------------------------------------------------------------------------------------
 
@@ -425,3 +430,12 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+tipue_search:
+  include:
+    pages: true
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []

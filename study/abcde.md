@@ -1,0 +1,62 @@
+---
+layout: page
+title: Abcde
+description: >
+    abcdefg
+hide_description: true
+sitemap: ture
+---
+
+
+`<li>` list<br>
+![image description](/assets/img/front/html&css/20220702_175057.png)
+
+`<ul>` unordered list + `<li>`<br>
+![image description](/assets/img/front/html&css/20220702_191156.png)
+
+`<ol>` ordered list + `<li>`<br>
+![image description](/assets/img/front/html&css/20220702_175057.png)
+
+`<a> ` anchor<br>
+![image description](/assets/img/front/html&css/20220702_175057.png)
+
+![image description](/assets/img/front/html&css/20220702_175057.png)
+
+![image description](/assets/img/front/html&css/20220702_175057.png)
+
+attribute
+- href
+- target
+
+blcok // 높이와 너비 존재<br>
+inline // span, a, img 높이와 너비가 없음<br>
+box // 3가지 속성: margin, border, padding<br>
+
+
+margin // 경계의 바깥 공간<br>
+collapsing margins <br>
+- 경계가 만나면 일어나는 현상<br>
+- 위 아래로만 일어나는 현상<br>
+		
+padding // 경계의 안쪽 공간<br>
+
+border // 박스의 경계<br>
+
+flexbox<br>
+<li>자식 엘리먼트 건들지 말기</li>
+<li>main axis / cross axis</li>
+ (justify content) / (align-items)
+ 
+flex-direction: column // 뒤바뀜
+
+row-reverse
+column-reverse
+
+<style>
+    a {
+        text-decoration-line:none;
+        color: orange;
+    }
+</style>
+
+참고: <a href="https://nomadcoders.co/?gclid=CjwKCAjw2f-VBhAsEiwAO4lNeGxUb10hQEsnXWufl6NE_TMbZVomtR59HvzfaaYKAIONyRIsWAW8QxoCRK0QAvD_BwE">Nomad Coders</a>
