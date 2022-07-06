@@ -16,14 +16,14 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 
 ## HTML&CSS
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Abcde]{:.heading.flip-title} --- How to install and run Hydejacsadk.
-* [Basic2]{:.heading.flip-title} --- How to install and run Hydejacsadk.
+* [HTML 기본 요소]{:.heading.flip-title} --- How to install and run Hydejacsadk.
+* [HTML Head 설정]{:.heading.flip-title} --- How to install and run Hydejacsadk.
+* [HTML&CSS 기초3]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
-## Using Hydejack
+## JS
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
@@ -37,9 +37,9 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[abcde]: abcde.md
-[basic2]: 2022-06-04-html기초2.md
-[install]: install.md
+[HTML 기본 요소]: 2020-06-01-html기초1.md
+[HTML Head 설정]: 2020-06-02-html기초2.md
+[HTML&CSS 기초3]: 2020-06-03-html기초3.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md

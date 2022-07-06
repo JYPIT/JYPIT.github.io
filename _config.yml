@@ -27,7 +27,7 @@ title:                 Eclipse
 description:           >
 
 # A shorter description for the sidebar.
-tagline:               The things we lose have a way of coming back to us in the end, if not always in the way we expect.
+tagline:               The things we lose have a way of coming back<br>to us in the end,<br>if not always in the way we expect.
 
 # A list of keywords for your blog
 keywords:              []
