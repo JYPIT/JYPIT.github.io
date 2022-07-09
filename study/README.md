@@ -17,6 +17,11 @@ permalink: /study/
 * [More Tags]{:.heading.flip-title} --- 그 밖에 다른 태그들.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+
+* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
 ## CSS

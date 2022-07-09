@@ -53,7 +53,7 @@ menu:
     url:               /projects/
   - title:             Study
     url:               /study/
-  - title:             Post
+  - title:             Algorithm
     url:               /posts/ 
   - title:             Blog
     url:               "https://blog.naver.com/jypit"
