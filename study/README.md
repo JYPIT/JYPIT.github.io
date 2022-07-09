@@ -15,7 +15,7 @@ permalink: /study/
 * [HTML 기본 요소]{:.heading.flip-title} --- HTML 구조와 기본 요소들.
 * [HTML Head 설정]{:.heading.flip-title} --- Head 안에 들어가는 설정들.
 * [More Tags]{:.heading.flip-title} --- 그 밖에 다른 태그들.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
+* [Form Tags]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
@@ -47,7 +47,7 @@ permalink: /study/
 [HTML 기본 요소]: 2020-06-01-html기초1.md
 [HTML Head 설정]: 2020-06-02-html기초2.md
 [More Tags]: 2020-06-03-html기초3.md
-[upgrade]: upgrade.md
+[Form Tags]: 2020-06-04-html기초4.md
 [config]: config.md
 [basics]: basics.md
 [writing]: writing.md
