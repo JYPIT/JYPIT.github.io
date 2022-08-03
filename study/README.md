@@ -33,6 +33,7 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## JS
+* [JS 필기]{:.heading.flip-title} --- JavaScript 필기 with Youtube clone.
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
@@ -48,6 +49,7 @@ permalink: /study/
 [HTML Head 설정]: 2020-06-02-html기초2.md
 [More Tags]: 2020-06-03-html기초3.md
 [Form Tags]: 2020-06-04-html기초4.md
+[JS 필기]: 2022-07-01-js필기.md
 [config]: config.md
 [basics]: basics.md
 [writing]: writing.md
