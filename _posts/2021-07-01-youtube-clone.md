@@ -1,12 +1,12 @@
 ---
 layout: project
-title: 'Youtube'
+title: 'Youtube reloaded'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
 
 image: 
-  path: http://wiki.hash.kr/images/9/97/%EC%9C%A0%ED%8A%9C%EB%B8%8C_%EB%A1%9C%EA%B3%A0.png
+  path: \assets\posts\유튜브로고.png
 
 links:
   - title: View
