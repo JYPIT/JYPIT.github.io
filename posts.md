@@ -1,8 +1,8 @@
 ---
-layout: list
-title: Posts
+layout: projects
+title: Practice
+show_collection: posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  “ The only way to learn a new programming language is by writing programs in it. ”<br> -- Dennis Ritchie --
 grouped: true
 ---

@@ -16,7 +16,7 @@ url: https://jypit.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang: en
+lang: kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Eclipse
@@ -46,13 +46,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Résumé*
+  - title: Resume
     url: /resume/
   - title: Projects
     url: /projects/
   - title: Study
     url: /study/
-  - title: Posts
+  - title: Practice
     url: /posts/
   - title: Blog
     url: "https://blog.naver.com/jypit"
