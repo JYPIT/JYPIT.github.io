@@ -1,12 +1,12 @@
 ---
 layout: project
 title: 'Youtube reloaded'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Vanilla JS를 이용하여 만든 Youtube App
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
 
 image: 
-  path: \assets\posts\유튜브로고.png
+  path: ..\assets\posts\유튜브로고.png
 
 links:
   - title: View

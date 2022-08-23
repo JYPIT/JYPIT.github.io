@@ -26,14 +26,15 @@ permalink: /study/
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
 
-## JS
+## Vanilla JS
 * [JS 필기]{:.heading.flip-title} --- JavaScript 필기 with Youtube clone.
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-## Clone
+## React JS
+[React JS 필기]{:.heading.flip-title} --- The license of this project.
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
@@ -44,6 +45,7 @@ permalink: /study/
 [More Tags]: 2020-06-03-html기초3.md
 [Form Tags]: 2020-06-04-html기초4.md
 [JS 필기]: 2022-07-01-js필기.md
+[React JS 필기]: 2021-07-01-reactJS기초.md
 [config]: config.md
 [basics]: basics.md
 [writing]: writing.md

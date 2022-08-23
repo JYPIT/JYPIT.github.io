@@ -22,7 +22,6 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-
 body {
   /* Prevent side-scrolling on mobile */
   display: block;
@@ -30,19 +29,18 @@ body {
   overflow-x: hidden;
 }
 
-hy-push-state, hy-drawer {
+hy-push-state,
+hy-drawer {
   display: block;
   overflow: hidden;
 }
 
-
-
-@media print { 
-  html { 
+@media print {
+  html {
     font-size: var(--root-font-size-print);
-  } 
+  }
 }
 
-@page { 
+@page {
   margin: 16mm;
-} 
+}
