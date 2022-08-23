@@ -9,7 +9,7 @@ image:
   path: ..\assets\posts\Movie_posters.jpg
 
 links:
-  - title: View
+  - title: Cinema Paradiso
     url: https://JYPIT.github.io/cinema-paradiso/
 sitemap: false
 ---
