@@ -32,7 +32,7 @@ permalink: /study/
 * [Middleware]{:.heading.flip-title} --- Middleware에 대해서 알아보기.
 * [Router]{:.heading.flip-title} --- Router 개념을 알아보고 구성해보기.
 * [Pug]{:.heading.flip-title} --- PUG 관련 문법과 용어 알아보기.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
+* [req & res]{:.heading.flip-title} --- request와 response에 대해 알아보기.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
@@ -56,6 +56,7 @@ permalink: /study/
 [Middleware]: 2021-01-02-middleware.md
 [Router]: 2021-01-03-router.md
 [Pug]: 2021-01-04-pug.md
+[req & res]: 2021-01-02-req&res.md
 [React JS 필기]: 2021-07-01-reactJS기초.md
 [config]: config.md
 [basics]: basics.md
