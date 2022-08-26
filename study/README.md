@@ -66,4 +66,4 @@ permalink: /study/
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
-[Error]: 2021-01-01-Error.md
+[Error]: 2022-01-01-Error.md
