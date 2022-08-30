@@ -7,7 +7,10 @@ sitemap: false
 permalink: /study/
 ---
 
-“The only way to learn a new programming language is by writing programs in it.”<br> -- Dennis Ritchie --
+"내면에서 '너는 그림에 재능이 없어'라는 말이 들려오면,<br>
+그때는 반드시 그림을 그려라.<br>
+그 소리는 당신이 그림을 그릴 때 비로소 잠잠해진다."<br>
+-- Vincent Van Gogh --
 {:.note}
 
 
@@ -38,11 +41,12 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## React JS
-*[React JS 필기]{:.heading.flip-title} --- The license of this project.
+[React JS 필기]{:.heading.flip-title} --- The license of this project.
+{:.related-posts.faded}
 
 ## Error
-*[Error]{:.heading.flip-title} --- 작업하면서 만난 에러들.
-
+[Error]{:.heading.flip-title} --- 작업하면서 만난 에러들.
+{:.related-posts.faded}
 
 [HTML 기본 요소]: 2020-06-01-html기초1.md
 [HTML Head 설정]: 2020-06-02-html기초2.md
