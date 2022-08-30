@@ -5,7 +5,7 @@ caption: Vanila JS를 이용하여 만든 Zoom App
 description: >
   Vanila JS를 이용하여 만든 Zoom App
 image: 
-  path: ..\assets\posts\Movie_posters.jpg
+  path: ..\assets\posts\zoom_로고.png
 links:
   - title: Room
     url: https://jypit.github.io/zoom-clone

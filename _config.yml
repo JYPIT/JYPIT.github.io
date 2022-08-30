@@ -50,25 +50,19 @@ menu:
     url: /resume/
   - title: Projects
     url: /projects/
-  - title: Study
-    url: /study/
   - title: Practice
     url: /posts/
-  - title: Blog
-    url: "https://blog.naver.com/jypit"
+  - title: Study
+    url: /study/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title: LICENSE
-    url: /LICENSE/
-  - title: NOTICE
-    url: /NOTICE/
-  - title: CHANGELOG
-    url: /CHANGELOG/
+  - title: Github
+    url: https://github.com/JYPIT
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2020. All rights reserved.
+copyright: © 2021. ECLIPSE
 
 # Format of the permalinks
 permalink: /:categories/:year-:month-:day-:title/
