@@ -44,6 +44,14 @@ permalink: /study/
 [React JS 필기]{:.heading.flip-title} --- The license of this project.
 {:.related-posts.faded}
 
+## Linux
+[WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
+{:.related-posts.faded}
+
+## AWS
+[EC2]{:.heading.flip-title} --- AWS EC2로 Node.JS 서버 배포하기. 
+{:.related-posts.faded}
+
 ## Error
 [Error]{:.heading.flip-title} --- 작업하면서 만난 에러들.
 {:.related-posts.faded}
@@ -52,13 +60,19 @@ permalink: /study/
 [HTML Head 설정]: 2020-06-02-html기초2.md
 [More Tags]: 2020-06-03-html기초3.md
 [Form Tags]: 2020-06-04-html기초4.md
+
 [JS 기초]: 2021-01-01-js기초.md
 [express 서버 구성]: 2021-01-01-express.md
 [req & res]: 2021-01-02-req&res.md
 [Middleware]: 2021-01-03-middleware.md
 [Router]: 2021-01-04-router.md
 [Pug]: 2021-01-05-pug.md
-[MongoDB]:2021-01-06-mongoDB.md
-[User]:2021-01-07-user.md
+[MongoDB]: 2021-01-06-mongoDB.md
+[User]: 2021-01-07-user.md
+
 [React JS 필기]: 2021-07-01-reactJS기초.md
+
+[WSL]: 2022-01-01-wsl.md
+
+[EC2]: 2022-09-01-ec2.md
 [Error]: 2022-01-01-error.md

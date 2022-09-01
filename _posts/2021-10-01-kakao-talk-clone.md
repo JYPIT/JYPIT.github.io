@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Kakao Talk reloaded'
-caption: Vanilla JS를 이용하여 만든 카카오톡 App
+caption: HTML&CSS를 이용하여 만든 카카오톡 App
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
 image: 
