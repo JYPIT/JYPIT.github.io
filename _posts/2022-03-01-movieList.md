@@ -6,7 +6,7 @@ description: >
   React JS를 이용하여 만든 Movie List App
 
 image: 
-  path: ..\assets\posts\Movie_posters.jpg
+  path: ..\assets\img\post_img\Movie_posters.jpg
 
 links:
   - title: Cinema Paradiso

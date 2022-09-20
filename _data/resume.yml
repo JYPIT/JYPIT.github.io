@@ -9,15 +9,7 @@ basics:
   phone: "010-1234-1234"
   website: "https://github.com/JYPIT"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    풀스택 개발자가 되고 싶은 주니어 개발자입니다.
   location:
     countryCode: "KR"
     region: "Yongin"
@@ -29,15 +21,13 @@ basics:
       username: "Naver Blog"
       url: "https://blog.naver.com/jypit"
 work:
-  - company: "company"
-    position: "employee"
-    website: ""
-    startDate: "2021-10-28"
-    endDate: ""
+  - company: "(주)툰스퀘어"
+    position: "인턴"
+    website: "https://tooning.io/tooning-landing-main"
+    startDate: "2021-9-28"
+    endDate: "2021-12-01"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      (주)툰스퀘어에서 앱을 정식 배포하기 전 버그 수정 및 기능 구현 업무를 담당.
     highlights:
       - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
@@ -72,12 +62,12 @@ skills:
       - "CSS"
       - "Javascript"
       - "React JS"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+  # - name: "Compression"
+  #   level: "Master"
+  #   keywords:
+  #     - "Mpeg"
+  #     - "MP4"
+  #     - "GIF"
 languages:
   - language: "English"
     fluency: ""
@@ -86,8 +76,8 @@ interests:
     keywords:
       - "Ferrets"
       - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.

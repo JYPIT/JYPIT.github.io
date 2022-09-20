@@ -22,11 +22,8 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## CSS
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
+* [Reset CSS]{:.heading.flip-title} --- How to add different types of content.
+* [자주쓰는 CSS 구성]{:.heading.flip-title} --- How to add different types of content.
 {:.related-posts.faded}
 
 ## Vanilla JS
@@ -56,11 +53,22 @@ permalink: /study/
 [Error]{:.heading.flip-title} --- 작업하면서 만난 에러들.
 {:.related-posts.faded}
 
+## Algorithm
+* [Search]{:.heading.flip-title} --- 알고리즘 공부. 
+* [Sort]{:.heading.flip-title} --- 알고리즘 공부. 
+{:.related-posts.faded}
+
+<!-- HTML -->
 [HTML 기본 요소]: 2020-06-01-html기초1.md
 [HTML Head 설정]: 2020-06-02-html기초2.md
 [More Tags]: 2020-06-03-html기초3.md
 [Form Tags]: 2020-06-04-html기초4.md
 
+<!-- CSS -->
+[Reset CSS]:2021-03-01-reset.md
+[자주쓰는 CSS 구성]:2021-03-02-usefulCss.md
+
+<!-- Vanila JS -->
 [JS 기초]: 2021-01-01-js기초.md
 [express 서버 구성]: 2021-01-01-express.md
 [req & res]: 2021-01-02-req&res.md
@@ -70,9 +78,18 @@ permalink: /study/
 [MongoDB]: 2021-01-06-mongoDB.md
 [User]: 2021-01-07-user.md
 
+<!-- React JS -->
 [React JS 필기]: 2021-07-01-reactJS기초.md
 
+<!-- Linux -->
 [WSL]: 2022-01-01-wsl.md
 
+<!-- AWS -->
 [EC2]: 2022-09-01-ec2.md
+
+<!-- Error -->
 [Error]: 2022-01-01-error.md
+
+<!-- Algorithm -->
+[Search]: 2022-05-01-search.md
+[Sort]: 2022-05-02-sort.md
