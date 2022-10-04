@@ -54,8 +54,15 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## Algorithm
+* [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
+* [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
+* [BFS&DFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 알고리즘 공부. 
 * [Sort]{:.heading.flip-title} --- 알고리즘 공부. 
+{:.related-posts.faded}
+
+## Pyhton
+* [Python Basic]{:.heading.flip-title} --- 파이썬 기초 문법.
 {:.related-posts.faded}
 
 <!-- HTML -->
@@ -81,6 +88,9 @@ permalink: /study/
 <!-- React JS -->
 [React JS 필기]: 2021-07-01-reactJS기초.md
 
+<!-- Next JS -->
+[Next JS 기초]: 2022-07-01-NextJS기초.md
+
 <!-- Linux -->
 [WSL]: 2022-01-01-wsl.md
 
@@ -91,5 +101,11 @@ permalink: /study/
 [Error]: 2022-01-01-error.md
 
 <!-- Algorithm -->
-[Search]: 2022-05-01-search.md
+[Algorithm Basic]: 2022-04-01-algorithm-basic.md
+[Greedy]: 2022-04-02-greedy.md
 [Sort]: 2022-05-02-sort.md
+[DFS&BFS]: 2022-04-03-dfs&bfs.md
+[Search]: 2022-05-01-search.md
+
+<!-- Python -->
+[Python Basic]: 2022-03-01-python-basic.md
