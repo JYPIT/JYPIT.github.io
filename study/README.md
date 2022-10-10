@@ -38,7 +38,11 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## React JS
-[React JS 필기]{:.heading.flip-title} --- The license of this project.
+[React JS 기초]{:.heading.flip-title} --- The license of this project.
+{:.related-posts.faded}
+
+## Next JS
+[Next JS 기초]{:.heading.flip-title} --- The license of this project.
 {:.related-posts.faded}
 
 ## Linux
@@ -56,7 +60,7 @@ permalink: /study/
 ## Algorithm
 * [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
 * [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
-* [BFS&DFS]{:.heading.flip-title} --- BFS & DFS.
+* [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 알고리즘 공부. 
 * [Sort]{:.heading.flip-title} --- 알고리즘 공부. 
 {:.related-posts.faded}
@@ -86,7 +90,7 @@ permalink: /study/
 [User]: 2021-01-07-user.md
 
 <!-- React JS -->
-[React JS 필기]: 2021-07-01-reactJS기초.md
+[React JS 기초]: 2021-07-01-reactJS기초.md
 
 <!-- Next JS -->
 [Next JS 기초]: 2022-07-01-NextJS기초.md
