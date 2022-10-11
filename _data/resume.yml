@@ -68,14 +68,14 @@ skills:
   #     - "Mpeg"
   #     - "MP4"
   #     - "GIF"
-languages:
-  - language: "English"
-    fluency: ""
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+# languages:
+#   - language: "English"
+#     fluency: ""
+# interests:
+#   - name: "Wildlife"
+#     keywords:
+#       - "Ferrets"
+#       - "Unicorns"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >

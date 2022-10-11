@@ -18,7 +18,6 @@ permalink: /study/
 * [HTML 기본 요소]{:.heading.flip-title} --- HTML 구조와 기본 요소들.
 * [HTML Head 설정]{:.heading.flip-title} --- Head 안에 들어가는 설정들.
 * [More Tags]{:.heading.flip-title} --- 그 밖에 다른 태그들.
-* [Form Tags]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 {:.related-posts.faded}
 
 ## CSS
@@ -35,45 +34,51 @@ permalink: /study/
 * [Pug]{:.heading.flip-title} --- PUG 관련 문법과 용어 알아보기.
 * [MongoDB]{:.heading.flip-title} --- Mongo DB & Mongoose 사용해보기.
 * [User]{:.heading.flip-title} --- User를 만들고 Login 해보기.
+* [FileUpload]{:.heading.flip-title} --- FileUpload 해보기.
+* [WebPack]{:.heading.flip-title} --- WebPack 사용하기.
 {:.related-posts.faded}
 
 ## React JS
-[React JS 기초]{:.heading.flip-title} --- The license of this project.
+* [React JS 기초]{:.heading.flip-title} --- React JS에 대해 알아보기.
+* [React App 만들기]{:.heading.flip-title} --- React App 만들어보기.
 {:.related-posts.faded}
 
 ## Next JS
-[Next JS 기초]{:.heading.flip-title} --- The license of this project.
+* [Next JS 기초]{:.heading.flip-title} --- The license of this project.
 {:.related-posts.faded}
 
 ## Linux
-[WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
+* [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
 {:.related-posts.faded}
 
 ## AWS
-[EC2]{:.heading.flip-title} --- AWS EC2로 Node.JS 서버 배포하기. 
-{:.related-posts.faded}
-
-## Error
-[Error]{:.heading.flip-title} --- 작업하면서 만난 에러들.
-{:.related-posts.faded}
-
-## Algorithm
-* [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
-* [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
-* [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
-* [Search]{:.heading.flip-title} --- 알고리즘 공부. 
-* [Sort]{:.heading.flip-title} --- 알고리즘 공부. 
+* [EC2]{:.heading.flip-title} --- AWS EC2로 Node.JS 서버 배포하기. 
 {:.related-posts.faded}
 
 ## Pyhton
 * [Python Basic]{:.heading.flip-title} --- 파이썬 기초 문법.
 {:.related-posts.faded}
 
+## Algorithm
+* [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
+* [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
+* [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
+* [Search]{:.heading.flip-title} --- 탐색 공부. 
+* [Sort]{:.heading.flip-title} --- 정렬 공부. 
+{:.related-posts.faded}
+
+## Git
+* [Git 사용법]{:.heading.flip-title} --- Git 사용법에 대해 알아보기. 
+{:.related-posts.faded}
+
+## Error
+* [Errors]{:.heading.flip-title} --- 작업하면서 만난 에러들.
+{:.related-posts.faded}
+
 <!-- HTML -->
 [HTML 기본 요소]: 2020-06-01-html기초1.md
 [HTML Head 설정]: 2020-06-02-html기초2.md
 [More Tags]: 2020-06-03-html기초3.md
-[Form Tags]: 2020-06-04-html기초4.md
 
 <!-- CSS -->
 [Reset CSS]:2021-03-01-reset.md
@@ -88,9 +93,12 @@ permalink: /study/
 [Pug]: 2021-01-05-pug.md
 [MongoDB]: 2021-01-06-mongoDB.md
 [User]: 2021-01-07-user.md
+[FileUpload]: 2021-01-08-fileUpload.md
+[WebPack]: 2021-01-09-webpack.md
 
 <!-- React JS -->
 [React JS 기초]: 2021-07-01-reactJS기초.md
+[React App 만들기]: 2021-07-02-reactApp.md
 
 <!-- Next JS -->
 [Next JS 기초]: 2022-07-01-NextJS기초.md
@@ -101,15 +109,19 @@ permalink: /study/
 <!-- AWS -->
 [EC2]: 2022-09-01-ec2.md
 
-<!-- Error -->
-[Error]: 2022-01-01-error.md
+<!-- Python -->
+[Python Basic]: 2022-03-01-python-basic.md
 
 <!-- Algorithm -->
 [Algorithm Basic]: 2022-04-01-algorithm-basic.md
 [Greedy]: 2022-04-02-greedy.md
+[Search]: 2022-05-01-search.md
 [Sort]: 2022-05-02-sort.md
 [DFS&BFS]: 2022-04-03-dfs&bfs.md
-[Search]: 2022-05-01-search.md
 
-<!-- Python -->
-[Python Basic]: 2022-03-01-python-basic.md
+<!-- Git -->
+[Git 사용법]: 2022-09-01-git.md
+
+<!-- Error -->
+[Errors]: 2022-12-25-error.md
+
