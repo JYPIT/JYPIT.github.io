@@ -27,11 +27,11 @@ permalink: /study/
 
 ## Vanilla JS
 * [JS 기초]{:.heading.flip-title} --- JavaScript 기초 개념 및 관련 용어.
-* [express 서버 구성]{:.heading.flip-title} --- express를 이용한 웹 서버 만들기.
+* [express 웹서버 만들기]{:.heading.flip-title} --- express를 이용한 웹 서버 만들기.
 * [req & res]{:.heading.flip-title} --- request와 response에 대해 알아보기.
 * [Middleware]{:.heading.flip-title} --- Middleware에 대해서 알아보기.
 * [Router]{:.heading.flip-title} --- Router 개념을 알아보고 구성해보기.
-* [Pug]{:.heading.flip-title} --- PUG 관련 문법과 용어 알아보기.
+* [PUG]{:.heading.flip-title} --- PUG 관련 문법과 용어 알아보기.
 * [MongoDB]{:.heading.flip-title} --- Mongo DB & Mongoose 사용해보기.
 * [User]{:.heading.flip-title} --- User를 만들고 Login 해보기.
 * [FileUpload]{:.heading.flip-title} --- FileUpload 해보기.
@@ -81,16 +81,16 @@ permalink: /study/
 [More Tags]: 2020-06-03-html기초3.md
 
 <!-- CSS -->
-[Reset CSS]:2021-03-01-reset.md
-[Useful CSS]:2021-03-02-usefulCss.md
+[Reset CSS]: 2020-07-01-reset.md
+[Useful CSS]: 2020-07-02-usefulCss.md
 
 <!-- Vanila JS -->
-[JS 기초]: 2021-01-01-js기초.md
-[express 서버 구성]: 2021-01-01-express.md
+[JS 기초]: 2020-12-31-js기초.md
+[express 웹서버 만들기]: 2021-01-01-express.md
 [req & res]: 2021-01-02-req&res.md
 [Middleware]: 2021-01-03-middleware.md
 [Router]: 2021-01-04-router.md
-[Pug]: 2021-01-05-pug.md
+[PUG]: 2021-01-05-pug.md
 [MongoDB]: 2021-01-06-mongoDB.md
 [User]: 2021-01-07-user.md
 [FileUpload]: 2021-01-08-fileUpload.md
