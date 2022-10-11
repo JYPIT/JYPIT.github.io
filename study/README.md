@@ -21,8 +21,8 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## CSS
-* [Reset CSS]{:.heading.flip-title} --- How to add different types of content.
-* [자주쓰는 CSS 구성]{:.heading.flip-title} --- How to add different types of content.
+* [Reset CSS]{:.heading.flip-title} --- 기본 CSS 초기화시키기.
+* [Useful CSS]{:.heading.flip-title} --- 자주 사용하는 CSS 모음.
 {:.related-posts.faded}
 
 ## Vanilla JS
@@ -82,7 +82,7 @@ permalink: /study/
 
 <!-- CSS -->
 [Reset CSS]:2021-03-01-reset.md
-[자주쓰는 CSS 구성]:2021-03-02-usefulCss.md
+[Useful CSS]:2021-03-02-usefulCss.md
 
 <!-- Vanila JS -->
 [JS 기초]: 2021-01-01-js기초.md
