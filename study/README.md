@@ -100,7 +100,7 @@ permalink: /study/
 [FileUpload]: 2021-01-08-fileUpload.md
 [WebPack]: 2021-01-09-webpack.md
 
-<!-- TS 기초 -->]
+<!-- TS 기초 -->
 [TS 기초]: 2021-02-01-ts기초.md
 
 <!-- React JS -->
