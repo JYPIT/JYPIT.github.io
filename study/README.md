@@ -39,7 +39,7 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## Typescript
-* [ts 기초]{:.heading.flip-title} --- React App 만들어보기.
+* [TS 기초]{:.heading.flip-title} --- React App 만들어보기.
 {:.related-posts.faded}
 
 ## React JS
