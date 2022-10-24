@@ -38,8 +38,8 @@ permalink: /study/
 * [WebPack]{:.heading.flip-title} --- WebPack 사용하기.
 {:.related-posts.faded}
 
-## Typescript
-* [TS 기초]{:.heading.flip-title} --- React App 만들어보기.
+## TypeScript
+* [TS 기초]{:.heading.flip-title} --- TypeScript에 대해 알아보기.
 {:.related-posts.faded}
 
 ## React JS
