@@ -11,18 +11,18 @@ sitemap: true
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
-## Hello
+# Hello
 
-### flex
+## flex
 
 <a href="http://flexboxfroggy.com/#ko">Flex를 이용한 게임하기</a>
 
 
-#### justify-content
+### justify-content
 
-#### align-items
+### align-items
 - 컨테이너 안에서 어떻게 모든 요소들이 정렬하는지를 지정
-#### align-content
+### align-content
 - 여러 줄들 사이의 간격을 지정
 
 인자
@@ -33,17 +33,33 @@ space-between: 여러 줄들 사이에 동일한 간격을 둠
 space-around: 여러 줄들 주위에 동일한 간격을 둠
 stretch: 여러 줄들을 컨테이너에 맞도록 림
 
-#### direction
+### direction
 row
 column
 
-#### wrap
+### wrap
 nowrap: 모든 요소들을 한 줄에 정렬
 wrap: 요소들을 여러 줄에 걸쳐 정렬
 wrap-reverse: 요소들을 여러 줄에 걸쳐 반대로 정렬
 
 
-##### flex-flow
+#### flex-flow
 flex(direction + wrap)
+
+## position
+- 요소를 배치하는 방법
+
+💡
+- block : 한 줄을 모두 차지한다.
+- inline : 콘텐츠의 크기 만큼 차지한다.
+
+
+### static
+### relative
+### absolute
+### fixed
+### stickey
+
+https://creamilk88.tistory.com/197 참고
 
 출처: "http://flexboxfroggy.com/#ko"
