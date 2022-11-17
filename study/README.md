@@ -38,6 +38,10 @@ permalink: /study/
 * [WebPack]{:.heading.flip-title} --- WebPack 사용하기.
 {:.related-posts.faded}
 
+## TypeScript
+* [TS 기초]{:.heading.flip-title} --- TypeScript에 대해 알아보기.
+{:.related-posts.faded}
+
 ## React JS
 * [React JS 기초]{:.heading.flip-title} --- React JS에 대해 알아보기.
 * [React App 만들기]{:.heading.flip-title} --- React App 만들어보기.
@@ -95,6 +99,9 @@ permalink: /study/
 [User]: 2021-01-07-user.md
 [FileUpload]: 2021-01-08-fileUpload.md
 [WebPack]: 2021-01-09-webpack.md
+
+<!-- TS 기초 -->
+[TS 기초]: 2021-02-01-ts기초.md
 
 <!-- React JS -->
 [React JS 기초]: 2021-07-01-reactJS기초.md
