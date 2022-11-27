@@ -51,6 +51,10 @@ permalink: /study/
 * [Next JS 기초]{:.heading.flip-title} --- The license of this project.
 {:.related-posts.faded}
 
+## React Native
+* [React Native 기초]{:.heading.flip-title} --- React Native에 대해 알아보기.
+{:.related-posts.faded}
+
 ## Query Language
 * [GraphQL 기초]{:.heading.flip-title} --- GraphQL 개념 및 사용법.
 {:.related-posts.faded}
@@ -113,6 +117,9 @@ permalink: /study/
 
 <!-- Next JS -->
 [Next JS 기초]: 2022-07-01-NextJS기초.md
+
+<!-- React Native -->
+[React Native 기초]: 2022-11-01-reactNative기초.md
 
 <!-- Query Language -->
 [GraphQL 기초]: 2022-10-01-graphql.md
