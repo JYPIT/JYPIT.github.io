@@ -24,7 +24,7 @@ React Native -(bridge)- Android/IOS
 
 <hr>
 
-## 사용하기(Mac🍎)
+## 사용하기(with Mac🍎)
 >expo 설치<br>
 🔧 npm install --global expo-cli
 
@@ -33,8 +33,9 @@ React Native -(bridge)- Android/IOS
 🔧 brew install watchman
 > 프로젝트 생성<br>
 ```re
-expo init [프로젝트 명]
+expo init [프로젝트 명] --npm
 ```
+blank 선택
 
 > 프로젝트 시작<br>
 ```re
