@@ -130,3 +130,10 @@ const { windowWidth, windowHeight } = Dimensions.get("window").width;
 
 
 ## Components
+
+### TouchableOpacity
+- 터치 시 투명도를 조절
+
+### TouchableHightlight
+
+[Touchable 더 살펴보기](ttps://docs.expo.dev/versions/v44.0.0/react-native)
