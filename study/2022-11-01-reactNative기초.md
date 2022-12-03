@@ -136,4 +136,4 @@ const { windowWidth, windowHeight } = Dimensions.get("window").width;
 
 ### TouchableHightlight
 
-[Touchable 더 살펴보기](ttps://docs.expo.dev/versions/v44.0.0/react-native)
+[Touchable 더 살펴보기](https://docs.expo.dev/versions/v44.0.0/react-native)
