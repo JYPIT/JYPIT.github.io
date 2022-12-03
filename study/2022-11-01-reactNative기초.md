@@ -134,13 +134,14 @@ const { windowWidth, windowHeight } = Dimensions.get("window").width;
 ### TouchableOpacity
 - 터치 시 투명도를 조절
 
-### TouchableHightlight
-- **TouchableOpacity**와 동일하지만 더 다양한 기능을 가지고 있음
+### TouchableHighlight
+- **TouchableOpacity**와 비슷하지만 하이라이트 효과가 있음
 
-<s>하지만 현재 개인 기기에서 동작하지 않음</s>
+### TouchableWithoutFeedback
+- **TouchableHighlight**와 비슷하지만 애니매이션은 존재하지 않음
+<s>애니메이션이 없다고 하나 사용 시 애니메이션이 있다</s>
 
-### TouchableWithouFeedback
-- 
-
+### Pressable
+- **TouchableOpacity** 대신 사용되며 더 많은 기능과 섬세한 설정을 제공
 
 [Touchable 더 살펴보기](https://docs.expo.dev/versions/v44.0.0/react-native){:target="_blank"}
