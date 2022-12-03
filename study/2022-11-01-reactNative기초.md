@@ -111,6 +111,10 @@ Expo SDK
 #### showHorizontalScrollIndicator
 - 수평 스크롤 시 스크롤 표시
 
+### Icons
+icons.expo.fyi
+- Icon Family를 제공
+
 ## APIs
 
 ## dimentions
@@ -123,6 +127,6 @@ const { windowWidth, windowHeight } = Dimensions.get("window").width;
 ## Expo Location
 🔧 expo install expo-location
 
-## Icons
-icons.expo.fyi
-- Icon Family를 제공
+
+
+## Components
