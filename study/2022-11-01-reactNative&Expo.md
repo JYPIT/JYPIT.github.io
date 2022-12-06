@@ -12,7 +12,7 @@ sitemap: true
 {:toc}
 
 # React Native
-![image description](/assets\study/reactNative_Image/react-native-image.png)
+![image description](/assets\study/reactNative_Image/react-native-logo.png)
 
 - User와 운영체제(IOS, Android) 사이에 있는 인터페이스.
 - shell과 같다
