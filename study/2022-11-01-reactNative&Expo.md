@@ -12,6 +12,8 @@ sitemap: true
 {:toc}
 
 # React Native
+![image description](/assets\study/reactNative_Image/react-native-image.png)
+
 - User와 운영체제(IOS, Android) 사이에 있는 인터페이스.
 - shell과 같다
 - 운영체제와 소통할 수 있게 한다.
