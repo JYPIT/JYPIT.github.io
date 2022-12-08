@@ -4,7 +4,7 @@ title: 'Online Community: Agora'
 caption: 온라인 커뮤니티 앱.
 description: >
   프로젝트
-date: '01-01-2022'
+date: '02-01-2022'
 image: 
   path: /assets/img/project_img/agora.jpg
 #   srcset: 
@@ -20,4 +20,8 @@ accent_color: 'red'
 # theme_color: 'blue'
 sitemap: false
 ---
+
+0. this unordered seed list will be replaced by toc as unordered list 
+{:toc}
+
 

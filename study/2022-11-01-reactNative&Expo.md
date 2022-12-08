@@ -14,9 +14,8 @@ sitemap: true
 # React Native
 ![image description](/assets\study/reactNative_Image/react-native-logo.png)
 
-- User와 운영체제(IOS, Android) 사이에 있는 인터페이스.
-- shell과 같다
-- 운영체제와 소통할 수 있게 한다.
+- User와 운영체제(IOS, Android) 사이에 있는 인터페이스다.
+- shell과 같은 역할을 하며 운영체제와 소통할 수 있게 한다.
 
 ## 동작 방식
 React Native -(bridge)- Android/IOS
@@ -27,20 +26,20 @@ React Native -(bridge)- Android/IOS
 <hr>
 
 ## 사용하기(with Mac🍎)
-expo 설치<br>
+1. expo 설치<br>
 > 🔧 npm install --global expo-cli
 
-watchman 설치<br>
-- 특정 폴더나 파일에 변화가 생기면 특정 동작을 실행하도록 해준다.
+2. watchman 설치<br>
+  특정 폴더나 파일에 변화가 생기면 특정 동작을 실행하도록 해준다.
 > 🔧 brew install watchman
 
-프로젝트 생성 후 blank 시작<br>
-```re
+프로젝트 생성 후 blank 선택<br>
+```js
 expo init [프로젝트 명] --npm
 ```
 
 프로젝트 시작<br>
-```re
+```js
 expo start
 ```
 
