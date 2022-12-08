@@ -6,7 +6,7 @@ description: >
   영화 앱
 date: '01-01-2022'
 image: 
-  path: assets/img/post_img/Movie_posters.jpg
+  path: .../assets/img/post_img/Movie_posters.jpg
 #   srcset: 
 #     1920w: ../assets/img/project_img/agora.jpg
 #     960w:  ../assets/img/project_img/agora.jpg
@@ -27,3 +27,6 @@ sitemap: false
 # Hello
 ## two
 ### three
+
+The configuration I use to enable the system font on my site. Feel free to copy!
+{:.figcaption}

@@ -14,7 +14,7 @@ image:
 links:
   - title: Link
     url: https://github.com/JYPIT
-accent_color: 'red'
+accent_color: 'skyblue'
 # accent_image:
 #   background: 'gray'
 # theme_color: 'blue'
@@ -25,3 +25,5 @@ sitemap: false
 {:toc}
 
 
+The configuration I use to enable the system font on my site. Feel free to copy!
+{:.figcaption}
