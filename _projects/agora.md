@@ -24,6 +24,10 @@ sitemap: false
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
+# One
+## Two
+
+### Three
 
 The configuration I use to enable the system font on my site. Feel free to copy!
 {:.figcaption}
