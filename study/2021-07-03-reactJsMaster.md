@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "React App Master"
+title: "React JS 심화"
 author: author1
 comments: true
 description: >
@@ -13,8 +13,7 @@ sitemap: true
 
 # React 심화
 
-## style
-### styled Component
+## styled Components
 
 - className이 자동으로 부여된다.
 - styled 뒤에는 유효한 html tag만 가능하다.
@@ -60,10 +59,10 @@ export default App;
 
 결과
 
-![image description](/assets\study\react\styledComponent.png)
+![image description](/assets\study\react_Image\styledComponent.png)
 
 <hr>
-- 아래와 같이 응용 가능
+- props 사용하기
 
 ```js
 const Box = styled.div`
@@ -71,18 +70,37 @@ const Box = styled.div`
   width: 100px;
   height: 100px;
 `;
-
-...
-
-      <Box bgColor="teal">
-        <Text>Hello</Text>
-      </Box>
-      <Box bgColor="orange" />
+return (
+  <Box bgColor="teal">
+    <Text>Hello</Text>
+  </Box>
+  <Box bgColor="orange" />
+);
 ```
 <hr>
 
-#### attrs
-- 
+### as
+- `as`를 사용하여 속성을 바꿔줄 수 있다. 
+
+```js
+function App() {
+  return (
+    <Father>
+      <Btn>Click me 1</Btn>
+      <Btn as="a" href="http://naver.com">
+        Click me 2
+      </Btn>
+    </Father>
+  );
+}
+```
+
+페이지 소스 결과<br>
+![image description](/assets\study\react_Image\styleComponents_as.png)
+<hr>
+
+### attrs
+- 한번에 속성을 넣어 줄 수 있다.
 
 ```js
 const Input = styled.input.attrs({ required: true, minLength: "3" })`
@@ -100,23 +118,13 @@ function App() {
   );
 }
 ```
-#### as
-- `as`를 사용하여 속성을 바꿔줄 수 있다. 
 
-```js
-function App() {
-  return (
-    <Father>
-      <Btn>Hello</Btn>
-      <Btn as="a">Bye</Btn>
-    </Father>
-  );
-}
-```
+페이지 소스 결과<br>
+![image description](/assets\study\react_Image\styleComponents_attrs.png)
 <hr>
 
 ### animation 
-
+- 설명
 ```js
 import styled, { keyframes } from "styled-components";
 
@@ -157,5 +165,59 @@ const Box = styled.div`
 💡&는 span을 의미한다.
 <hr>
 
-## Dark Mode 만들기
+### Theme
+- 모든 색상을 가지고 있는 Object.
 
+#### 라이트모드 & 다크모드
+> index.js
+```js
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import { ThemeProvider } from "styled-components";
+
+const darkTheme = {
+  textColor: "whitesmoke",
+  backgroundColor: "#111",
+};
+const lightTheme = {
+  textColor: "#111",
+  backgroundColor: "whitesmoke",
+};
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <ThemeProvider theme={darkTheme}>
+      <App />
+    </ThemeProvider>
+  </React.StrictMode>
+);
+```
+> App.js
+```js
+import styled from "styled-components";
+
+function App() {
+  const Wrapper = styled.div`
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: ${(props) => props.theme.backgroundColor};
+  `;
+  
+  const Text = styled.h1`
+    color: ${(props) => props.theme.textColor};
+  `;
+
+  return (
+    <Wrapper>
+      <Text>Hello World:)</Text>
+    </Wrapper>
+  );
+}
+
+export default App;
+```

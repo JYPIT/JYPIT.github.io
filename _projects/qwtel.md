@@ -1,29 +1,25 @@
 ---
 layout: project
-title: '@qwtel'
-caption: How I use Hydejack on my personal site.
+title: 'Library of Alexandria'
+caption: 책의 정보를 얻고 소통할 수 있는 앱.
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
-date: 1 Jun 2020
+  React JS를 이용하여 만든 ...앱.
+date: 1 May 2021
 links:
-  - title: Link
+  - title: Link   
     url: https://qwtel.com/
 sitemap: false
 ---
 
-For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
-However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
+0. this unordered seed list will be replaced by toc as unordered list 
+{:toc}
 
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
+# Library of Alexandria
 
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
+## API 선정 기준
 
-The configuration I use to enable the system font on my site. Feel free to copy!
+## style
+styled-components
+
+Library of Alexandria
 {:.figcaption}
