@@ -21,7 +21,8 @@ sitemap: true
 🔧 `npm install styled-components`
 
 자동 완성 확장 프로그램<br>
-[VScode] `vscode-styled-components` 설치
+[VScode]<br>
+`vscode-styled-components` 설치
 
 ```js
 import styled from "styled-components";
@@ -125,10 +126,9 @@ function App() {
 
 ### animation 
 - 설명
+
 ```js
 import styled, { keyframes } from "styled-components";
-
-...
 
 const rotationAnimation = keyframes`
 from {
@@ -195,6 +195,7 @@ root.render(
 );
 ```
 > App.js
+
 ```js
 import styled from "styled-components";
 
