@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "React JS 심화"
+title: "React 심화"
 author: author1
 comments: true
 description: >

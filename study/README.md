@@ -13,7 +13,8 @@ permalink: /study/
 -- Vincent Van Gogh --
 {:.note}
 
-
+0. this unordered seed list will be replaced by toc as unordered list 
+{:toc}
 ## HTML
 * [HTML 기본 요소]{:.heading.flip-title} --- HTML 구조와 기본 요소들.
 * [HTML Head 설정]{:.heading.flip-title} --- Head 안에 들어가는 설정들.
@@ -45,7 +46,7 @@ permalink: /study/
 ## React JS
 * [React JS 기초]{:.heading.flip-title} --- React JS에 대해 알아보기.
 * [React App 만들기]{:.heading.flip-title} --- React App 만들어보기.
-* [React JS 심화]{:.heading.flip-title} --- React JS 깊게 알아보기.
+* [React 심화]{:.heading.flip-title} --- React에 대해 더 깊게 알아보기.
 * [Recoil]{:.heading.flip-title} --- Recoil 사용법 및 개념.
 {:.related-posts.faded}
 
@@ -116,7 +117,7 @@ permalink: /study/
 <!-- React JS -->
 [React JS 기초]: 2021-07-01-reactJS기초.md
 [React App 만들기]: 2021-07-02-reactApp.md
-[React JS 심화]: 2021-07-03-reactJsMaster.md
+[React 심화]: 2021-07-03-reactMaster.md
 [Recoil]: 2021-07-04-recoil.md
 
 <!-- Next JS -->
