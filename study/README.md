@@ -46,6 +46,7 @@ permalink: /study/
 * [React JS 기초]{:.heading.flip-title} --- React JS에 대해 알아보기.
 * [React App 만들기]{:.heading.flip-title} --- React App 만들어보기.
 * [React JS 심화]{:.heading.flip-title} --- React JS 깊게 알아보기.
+* [Recoil]{:.heading.flip-title} --- Recoil 사용법 및 개념.
 {:.related-posts.faded}
 
 ## Next JS
@@ -116,6 +117,7 @@ permalink: /study/
 [React JS 기초]: 2021-07-01-reactJS기초.md
 [React App 만들기]: 2021-07-02-reactApp.md
 [React JS 심화]: 2021-07-03-reactJsMaster.md
+[Recoil]: 2021-07-04-recoil.md
 
 <!-- Next JS -->
 [Next JS 기초]: 2022-07-01-NextJS기초.md
