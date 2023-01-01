@@ -222,3 +222,56 @@ function App() {
 
 export default App;
 ```
+
+### React Hook Form
+- 복잡한 Form 코드를 단순하게 만들어 주는 라이브러리
+- onChange 핸들러, prop, value, useState 등을 한번에 대체할 수 있다.
+
+🛠️ `npm install react-hook-form`
+#### register
+- 유효성 검사(validation)를 React Hook Form에 적용할 수 있다.
+
+#### watch
+- form의 입력값을 추적할 수 있다.
+
+#### handleSubmit
+- form의 유효성 검사가 성공하면 from 데이터를 반환한다.
+
+#### formState
+- errors //에러를 보여준다.
+```js
+<input
+  {...register("email", {
+    required: `Write Your Email`,
+    pattern: {
+      value: /^[A-Za-z0-9._%+-]+@naver.com$/,
+      message: `Please, Use "naver.com"`,
+    },
+  })}
+  placeholder="Email"
+/>
+```
+
+💡 value는 정규표현식 사용
+
+#### setError
+- form에 error가 있다면 알려준다.
+
+
+## localStorage
+- 브라우저가 가지고 있는 임시 저장공간.
+
+> 데이터 저장<br>
+localStorage.setItem("key",value)<br>
+
+> 데이터 읽기<br>
+localStorage.getItem("key")<br>
+
+> 데이터 삭제<br>
+localStorage.removeItem("key")<br>
+
+> 데이터 모두 삭제<br>
+localStorage.clear()<br>
+
+> 데이터 개수<br>
+localStorage.length<br>

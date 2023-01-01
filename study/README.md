@@ -46,12 +46,12 @@ permalink: /study/
 ## React JS
 * [React JS 기초]{:.heading.flip-title} --- React JS에 대해 알아보기.
 * [React App 만들기]{:.heading.flip-title} --- React App 만들어보기.
-* [React 심화]{:.heading.flip-title} --- React에 대해 더 깊게 알아보기.
+* [React 심화]{:.heading.flip-title} --- React의 다양한 기능 사용해보기.
 * [Recoil]{:.heading.flip-title} --- Recoil 사용법 및 개념.
 {:.related-posts.faded}
 
 ## Next JS
-* [Next JS 기초]{:.heading.flip-title} --- The license of this project.
+* [Next JS 기초]{:.heading.flip-title} --- Next JS에 대해 알아보기.
 {:.related-posts.faded}
 
 ## React Native
@@ -61,6 +61,8 @@ permalink: /study/
 ## Query Language
 * [GraphQL 기초]{:.heading.flip-title} --- GraphQL 개념 및 사용법.
 {:.related-posts.faded}
+
+## SQL
 
 ## Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
@@ -128,6 +130,14 @@ permalink: /study/
 
 <!-- Query Language -->
 [GraphQL 기초]: 2022-10-01-graphql.md
+
+<!-- SQL -->
+[SELECT]
+[ISNULL]
+[JOIN]
+[String, Date]
+[Group BY]
+[SUM, MAX, MIN]
 
 <!-- Linux -->
 [WSL]: 2022-01-01-wsl.md
