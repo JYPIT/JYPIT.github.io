@@ -275,3 +275,38 @@ localStorage.clear()<br>
 
 > 데이터 개수<br>
 localStorage.length<br>
+
+## 라이브러리
+### react-beautiful-dnd
+- 드래그 앤 드롭
+
+🛠️ `npm i react-beautiful-dnd`
+🛠️ `npm i --save-dev @types/react-beautiful-dnd`
+🛠️ `npm i react-beautiful-dnd --legacy-peer-deps` //버전 차이로 인한 에러 무시하기
+<br>
+DragDropContext
+- 드래그 앤 드롭을 가능하게 하고 싶은 앱의 영역
+
+Droppable<br>
+- 드롭 가능한 영역
+
+💡 children은 함수여야 한다.
+
+Draggable<br>
+- 드래그 가능한 영역
+
+ref
+- JS로부터 HTML 요소를 지정하고 가져오고 수정할 수 있는 방법.
+### React.memo
+- prop이 변하지 않으면 컴포넌트를 다시 렌더링하지 않으며<br>변경된 prop이외에 나머지는 마지막 렌더링된 결과를 재사용한다.
+
+### useRef
+```js
+const inputRef = useRef<HTMLInputElement>(null);
+  const onClick = () => {
+    inputRef.current?.focus();
+    setTimeout(() => {
+      inputRef.current?.blur();
+    }, 5000);
+  };
+```
