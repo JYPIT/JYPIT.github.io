@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Movie'
+title: 'Cinema Paradiso'
 caption: 영화 앱.
 description: >
   영화 앱
