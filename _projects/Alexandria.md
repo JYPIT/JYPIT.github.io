@@ -4,7 +4,9 @@ title: 'Library of Alexandria'
 caption: 책의 정보를 얻고 소통할 수 있는 앱.
 description: >
   React JS를 이용하여 만든 ...앱.
-date: 1 May 2021
+date: 1 May 2022
+image: 
+  path: /assets/img/project_img/book-in-book.jpg
 links:
   - title: Link   
     url: https://qwtel.com/

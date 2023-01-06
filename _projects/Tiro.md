@@ -5,9 +5,11 @@ caption: 시간을 아껴쓰게 도와주는 타이머.
 description: >
   React JS를 이용하여 만든 타이머 앱.
 date: 1 Dec 2022
+image: 
+  path: /assets/img/project_img/hourglass.jpg
 links:
-  - title: Link   
-    url: https://qwtel.com/
+  - title: Tiro   
+    url: 
 sitemap: false
 ---
 
