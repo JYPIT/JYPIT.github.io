@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "JS 기초"
+title: "풀스택 맛보기1-기본 요소"
 author: author1
 comments: true
 description: >
@@ -11,7 +11,9 @@ sitemap: true
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
-# JS 기초
+# 풀스택 맛보기
+
+## 용어 설명
 
 Node.js 
 - 바깥에서도 JS를 이용하게 해주는 프로그램
@@ -452,7 +454,7 @@ wsServer.on("connection", (socket) => {
 });
 ```
 
-# 배포하기
+# gh-pages를 이용한 배포
 
 npm i gh-pages
 build

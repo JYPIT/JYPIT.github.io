@@ -26,8 +26,8 @@ permalink: /study/
 * [Useful CSS]{:.heading.flip-title} --- 자주 사용하는 CSS 모음.
 {:.related-posts.faded}
 
-## Vanilla JS
-* [JS 기초]{:.heading.flip-title} --- JavaScript 기초 개념 및 관련 용어.
+## JavaScript
+* [JS로 APP 만들기]{:.heading.flip-title} --- 풀스택에 필요한 기초 개념 및 관련 용어.
 * [express 웹서버 만들기]{:.heading.flip-title} --- express를 이용한 웹 서버 만들기.
 * [req & res]{:.heading.flip-title} --- request와 response에 대해 알아보기.
 * [Middleware]{:.heading.flip-title} --- Middleware에 대해서 알아보기.
@@ -63,7 +63,8 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## SQL
-
+* [MySQL]{:.heading.flip-title} --- MySQL에 대해 알아보고 사용해보기. 
+{:.related-posts.faded}
 ## Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
 {:.related-posts.faded}
@@ -102,7 +103,7 @@ permalink: /study/
 [Useful CSS]: 2020-07-02-usefulCss.md
 
 <!-- Vanila JS -->
-[JS 기초]: 2020-12-31-js기초.md
+[JS로 APP 만들기]: 2020-12-31-fullstackBasic.md
 [express 웹서버 만들기]: 2021-01-01-express.md
 [req & res]: 2021-01-02-req&res.md
 [Middleware]: 2021-01-03-middleware.md
@@ -132,6 +133,7 @@ permalink: /study/
 [GraphQL 기초]: 2022-10-01-graphql.md
 
 <!-- SQL -->
+[MySQL 기초]: 2023-01-03-mysql.md
 [SELECT]
 [ISNULL]
 [JOIN]

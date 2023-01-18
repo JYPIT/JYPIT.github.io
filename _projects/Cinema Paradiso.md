@@ -4,7 +4,7 @@ title: 'Cinema Paradiso'
 caption: 영화 앱.
 description: >
   영화 앱
-date: '01-01-2022'
+date: '03-20-2022'
 image: 
   path: /assets/img/project_img/cinema-paradiso.jpg
 #   srcset: 
@@ -24,8 +24,19 @@ sitemap: false
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
-# Hello
-## two
+# 동기
+
+## 구조
+
+## 사용 기술
+useParams로 ID 가져옴 
+
+react-hook-form
+- useFrom
+
+URLSearchParameter
+=> split을 이용하여 가져올 수 있으나 특이한 사항이 있을 경우를 대비하여 `URLSearchParameter` 사용
+
 ### three
 
 The configuration I use to enable the system font on my site. Feel free to copy!
