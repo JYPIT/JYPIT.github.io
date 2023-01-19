@@ -27,7 +27,8 @@ permalink: /study/
 {:.related-posts.faded}
 
 ## JavaScript
-* [JS로 APP 만들기]{:.heading.flip-title} --- 풀스택에 필요한 기초 개념 및 관련 용어.
+* [JS 기초]{:.heading.flip-title} --- JavaScript에서 필요한 기초 개념 및 관련 용어.
+* [JS로 APP 만들기]{:.heading.flip-title} --- express를 사용하여 App 만들기 위한 초기 세팅 및 용어 정리.
 * [express 웹서버 만들기]{:.heading.flip-title} --- express를 이용한 웹 서버 만들기.
 * [req & res]{:.heading.flip-title} --- request와 response에 대해 알아보기.
 * [Middleware]{:.heading.flip-title} --- Middleware에 대해서 알아보기.
@@ -102,7 +103,8 @@ permalink: /study/
 [Reset CSS]: 2020-07-01-reset.md
 [Useful CSS]: 2020-07-02-usefulCss.md
 
-<!-- Vanila JS -->
+<!-- JavaScript -->
+[JS 기초]: 2020-12-30-js기초.md
 [JS로 APP 만들기]: 2020-12-31-fullstackBasic.md
 [express 웹서버 만들기]: 2021-01-01-express.md
 [req & res]: 2021-01-02-req&res.md
