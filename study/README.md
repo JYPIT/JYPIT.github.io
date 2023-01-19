@@ -66,6 +66,7 @@ permalink: /study/
 ## SQL
 * [MySQL]{:.heading.flip-title} --- MySQL에 대해 알아보고 사용해보기. 
 {:.related-posts.faded}
+
 ## Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
 {:.related-posts.faded}
