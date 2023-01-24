@@ -1,12 +1,11 @@
 ---
 layout: project
-title: 'Youtube reloaded'
-caption: Vanilla JS를 이용하여 만든 Youtube App
+title: 'ITube'
+caption: Vanilla JS를 이용하여 만든 동영상 업로드 앱.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
-
+  
 image: 
-  path: ..\assets\img\post_img\유튜브로고.png
+  path: https://images.unsplash.com/photo-1558383745-6274e5c505c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80
 
 links:
   - title: View

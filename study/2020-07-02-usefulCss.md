@@ -11,7 +11,7 @@ sitemap: true
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
-# Hello
+# Amazing CSS
 
 ## flex
 
@@ -45,6 +45,10 @@ wrap-reverse: 요소들을 여러 줄에 걸쳐 반대로 정렬
 
 #### flex-flow
 flex(direction + wrap)
+
+### flex 1 1 0
+flex: flex-grow flex-shrink flex-basis
+
 
 ## position
 - 요소를 배치하는 방법
