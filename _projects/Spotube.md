@@ -12,8 +12,8 @@ image:
 #     960w:  ../assets/img/project_img/agora.jpg
 #     480w:  ../assets/img/project_img/agora.jpg
 links:
-  - title: Link
-    url: https://github.com/JYPIT
+  - title: Spotube
+    url: https://incredible-dusk-d8b866.netlify.app
 accent_color: 'skyblue'
 # accent_image:
 #   background: 'gray'
