@@ -9,9 +9,9 @@ image:
   path: ..\assets\img\post_img\Movie_posters.jpg
 
 links:
-  - title: Cinema Paradiso
+  - title: Movie List App
     url: https://JYPIT.github.io/cinema-paradiso/
 sitemap: false
 ---
 
-<a href="https://JYPIT.github.io/cinema-paradiso/" target="_blank">Movie List 보러가기
+<a href="https://JYPIT.github.io/cinema-paradiso/" target="_blank">Movie List App 보러가기
