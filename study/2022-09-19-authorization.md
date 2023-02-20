@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Authentication"
+title: "Authorization"
 author: author1
 comments: true
 description: >
@@ -13,6 +13,8 @@ sitemap: true
 
 # Auth
 
-# 세션 & 쿠키
+## 세션 & 쿠키
 
-# JWT(JSON Web Token)
+## JWT(JSON Web Token)
+npm install json-web-token
+## bycrpt

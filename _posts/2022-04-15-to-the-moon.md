@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 'Blue Bird'
-caption: React와 Node JS를 사용한 간단한 트위터 앱.
+title: 'To the Moon'
+caption: 코인 정보 제공 앱.
 description: >
   
 image: 

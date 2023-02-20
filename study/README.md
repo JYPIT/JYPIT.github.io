@@ -15,6 +15,8 @@ permalink: /study/
 
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
+
+# Front-end
 ## HTML
 * [HTML 기본 요소]{:.heading.flip-title} --- HTML 구조와 기본 요소들.
 * [HTML Head 설정]{:.heading.flip-title} --- Head 안에 들어가는 설정들.
@@ -59,6 +61,15 @@ permalink: /study/
 * [React Native & Expo]{:.heading.flip-title} --- React Native에 대해 알아보기.
 {:.related-posts.faded}
 
+# Back-end
+## Back-end
+* [NodeJS]{:.heading.flip-title} --- NodeJS에 대해 알아보기.
+* [NPM]{:.heading.flip-title} --- NPM에 대해 알아보기.
+* [HTTP]{:.heading.flip-title} --- HTTP에 대해 알아보기.
+* [REST]{:.heading.flip-title} --- REST에 대해 알아보기.
+* [Authorization]{:.heading.flip-title} --- Authorization에 대해 알아보기.
+{:.related-posts.faded}
+
 ## Query Language
 * [GraphQL 기초]{:.heading.flip-title} --- GraphQL 개념 및 사용법.
 {:.related-posts.faded}
@@ -67,6 +78,7 @@ permalink: /study/
 * [MySQL]{:.heading.flip-title} --- MySQL에 대해 알아보고 사용해보기. 
 {:.related-posts.faded}
 
+# Etc
 ## Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
 {:.related-posts.faded}
@@ -132,17 +144,21 @@ permalink: /study/
 <!-- React Native -->
 [React Native & Expo]: 2022-11-01-reactNative&Expo.md
 
+<!-- Back-end -->
+[NodeJS]: 2022-09-15-nodeJs.md
+[NPM]: 2022-09-16-npm.md
+[HTTP]: 2022-09-17-http.md
+[REST]: 2022-09-18-rest.md
+[Authorization]: 2022-09-19-authorization.md
+
 <!-- Query Language -->
 [GraphQL 기초]: 2022-10-01-graphql.md
 
+<!-- DB -->
+[DBMS]
+
 <!-- SQL -->
 [MySQL 기초]: 2023-01-03-mysql.md
-[SELECT]
-[ISNULL]
-[JOIN]
-[String, Date]
-[Group BY]
-[SUM, MAX, MIN]
 
 <!-- Linux -->
 [WSL]: 2022-01-01-wsl.md

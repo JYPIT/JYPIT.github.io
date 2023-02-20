@@ -25,3 +25,11 @@ styled-components
 
 Time To Running Out
 {:.figcaption}
+
+## 문제 
+
+### Timer input 연결 문제
+
+### 초시계 떨림 현상
+
+방법1. 너비를 고정으로 하는 폰트 사용.

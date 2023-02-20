@@ -50,6 +50,9 @@ flex(direction + wrap)
 flex: flex-grow flex-shrink flex-basis
 
 
+https://creamilk88.tistory.com/197 참고<br>
+출처: "http://flexboxfroggy.com/#ko"
+
 ## position
 - 요소를 배치하는 방법
 
@@ -57,13 +60,22 @@ flex: flex-grow flex-shrink flex-basis
 - block : 한 줄을 모두 차지한다.
 - inline : 콘텐츠의 크기 만큼 차지한다.
 
-
 ### static
 ### relative
 ### absolute
+
+#### 로고 가운데 정렬 
+```js
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: x-large;
+  font-weight: 500;
+}
+```
+
 ### fixed
 ### stickey
 
-https://creamilk88.tistory.com/197 참고
-
-출처: "http://flexboxfroggy.com/#ko"
