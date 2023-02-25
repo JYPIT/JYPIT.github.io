@@ -18,16 +18,24 @@ sitemap: false
 
 # Alexandria
 
+## Express
+
 ## API 선정 기준
 
 ## style
 styled-components
 
-## 문제와 수정
-### 페이지 이동 시 Scroll 위치
-페이지 이동 시 scoll이 이동 전 위치에 머물러 있다.
+## 문제와 해결
+### 새로고침 시 user 정보 공백이 생김
+>문제 새로고침을 하면 `AuthContext`가 리렌더링되면서 user 정보를 다시 가져온다.<br>
+이 부분에서 user의 정보가 잠시 사라진다.
 
-React는 상태를 변경하지 않으면 그 상태를 유지하기 떄문에 `ScrollToTop` 함수를 사용하여 다시 페이지를 상단부터 보여줄 수 있게 하였다.
+>> 방법 1. user 상태의 초기값을 {} 빈 객체로 설정하고 user를 일시적으로 true로 반환하게 한 후 받아온다.
+>> 방법 2. login 시 user를 localStorage에 저장하여 리렌러딩에 상관없이 유지한다 .
+### 페이지 이동 시 Scroll 위치
+> 문제 페이지 이동 시 scoll이 이동 전 위치에 머물러 있다.
+
+> 방법 1. React는 상태를 변경하지 않으면 그 상태를 유지하기 떄문에 `ScrollToTop` 함수를 사용하여 다시 페이지를 상단부터 보여줄 수 있게 하였다.
 
 ### [BookGrid] like
 > 문제: like가 즉시 반영되지 않는다.
@@ -50,6 +58,8 @@ React는 상태를 변경하지 않으면 그 상태를 유지하기 떄문에 `
 > 방법 1. event.nativeEvent.isComposing === false
 >> 한글로 받은 문자열의 마지막 문자가 조합으로 인식되어 나타나기 때문에 위의 코드를 false로 지정하여 출력한다.
 
+#### delete 후 댓글 중복 작성
+클래스 내부에서 일처리 후 
 ## ERROR
 ### blocked by CORS policy
 방법 1. JSONP
