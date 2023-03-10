@@ -44,23 +44,23 @@ styled-components
 
 ## 문제와 해결
 ### Client
-### [User] 새로고침 시 user 정보 공백이 생김
+#### [User] 새로고침 시 user 정보 공백이 생김
 >새로고침 시 `AuthContext`가 리렌더링되면서 user 정보를 다시 가져온다.<br>
 이 부분에서 user의 정보가 잠시 사라진다.
 
 - 방법 1. user 상태의 초기값을 {} 빈 객체로 설정하고 user를 일시적으로 true로 반환하게 한 후 받아온다.
 - 방법 2. login 시 user를 localStorage에 저장하여 리렌러딩에 상관없이 유지한다 .
-### 페이지 이동 시 Scroll 위치
+#### 페이지 이동 시 Scroll 위치
 > 문제: 페이지 이동 시 scroll이 이동 전 위치에 머물러 있다.
 
 - 방법 1. React는 상태를 변경하지 않으면 그 상태를 유지하기 때문에 `ScrollToTop` 함수를 사용하여 다시 페이지를 상단부터 보여줄 수 있게 하였다.
 
-### [BookGrid] like
+#### [BookGrid] like
 > 문제: like가 즉시 반영되지 않는다.
 - 방법 1. Item을 다시 가져온다.
 - 방법 2. 배열을 따로 저장하여 useMutation으로 캐시를 unvlalidate.<br>
 
-### [Comment] 댓글
+#### [Comment] 댓글
 > 문제: `<br />` 태그를 string으로 인식하여 줄바꿈이 정상적으로 동작하지 않는다.<br>
 - 방법 1. 문자열을 state에 regex를 사용하여 replace 해준다.<br> 위 방식은 결국 `<br/>`태그를 다시 string으로 인식하기 때문에 정상 동작하지 않는다.<br>
 
