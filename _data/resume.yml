@@ -32,7 +32,7 @@ work:
       - 'Built an algorithm for artist to detect if their music was violating copy right infringement laws'
 
 education:
-  - institution: '홍익대학교'
+  - institution: '홍익대학교(세종)'
     area: '소프트웨어융합'
     # studyType: '학사'
     startDate: '2021-03-01'
@@ -63,16 +63,16 @@ publications:
 
 skills:
   - name: 'HTML5 & CSS'
-    level: 'Junior'
+    level: 'amateur'
 
   - name: 'JavaScript(ES6)'
-    level: 'Senior'
+    level: 'amateur'
 
   - name: 'REACT'
-    level: 'Junior'
+    level: 'amateur'
 
   - name: 'MYSQL'
-    level: 'Junior'
+    level: 'amateur'
 
   # - name: "Compression"
   #   level: "Master"

@@ -129,7 +129,7 @@ resume:
   volunteer: Volunteer
   volunteer_title: <!--position--> at <!--organization-->
   education: Education
-  education_title: <!--institution--> <!--area-->학과 학사
+  education_title: <!--institution--> <!--area--> 학사
   courses: Courses
   awards: Awards
   awards_title: <!--title--> from <!--awarder-->
