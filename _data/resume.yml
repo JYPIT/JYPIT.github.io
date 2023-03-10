@@ -2,34 +2,34 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Park Junyeob"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: "rocket.jyp@gmail.com"
-  phone: "010-1234-1234"
-  website: "https://github.com/JYPIT"
+  name: 'Park Junyeob'
+  label: 'Programmer'
+  picture: 'https://via.placeholder.com/240x240'
+  email: 'rocket.jyp@gmail.com'
+  phone: '010-1234-1234'
+  website: 'https://github.com/JYPIT'
   summary: >
-    프론트엔드 개발자가 되고 싶은 주니어 개발자의 블로그입니다.
+    주니어 개발자입니다.
   location:
-    countryCode: "KR"
-    region: "Yongin"
+    countryCode: 'KR'
+    region: 'Yongin'
   profiles:
-    - network: "Github"
-      username: "Github"
-      url: "https://github.com/JYPIT"
-    - network: "Naver"
-      username: "Naver Blog"
-      url: "https://blog.naver.com/jypit"
+    - network: 'Github'
+      username: 'Github'
+      url: 'https://github.com/JYPIT'
+    - network: 'Naver'
+      username: 'Naver Blog'
+      url: 'https://blog.naver.com/jypit'
 work:
-  - company: "(주)툰스퀘어"
-    position: "인턴"
-    website: "https://tooning.io/tooning-landing-main"
-    startDate: "2021-9-27"
-    endDate: "2021-11-02"
+  - company: '(주)툰스퀘어'
+    position: '인턴'
+    website: 'https://tooning.io/tooning-landing-main'
+    startDate: '2021-9-27'
+    endDate: '2021-11-02'
     summary: >
       (주)툰스퀘어에서 앱을 정식 배포하기 전 버그 수정 및 기능 구현 업무를 담당.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - 'Built an algorithm for artist to detect if their music was violating copy right infringement laws'
 
 # education:
 #   - institution: "University of Oklahoma"
@@ -42,24 +42,24 @@ work:
 #       - "DB1101 - Basic SQL"
 #       - "CS2011 - Java Introduction"
 awards:
-  - title: "육군본부정보화부장상"
-    date: "2021-12-15"
-    awarder: "홍익대학교"
-    summary: "DancerFlow"
+  - title: '육군본부정보화부장상'
+    date: '2021-12-15'
+    awarder: '홍익대학교'
+    summary: 'DancerFlow'
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: 'Video compression for 3d media'
+    publisher: 'Hooli'
+    releaseDate: '2014-10-01'
+    website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
+    summary: 'Innovative middle-out compression algorithm that changes the way we store data.'
 skills:
-  - name: "Web Development"
-    level: "Junior"
+  - name: 'Web Development'
+    level: 'Junior'
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-      - "React JS"
+      - 'HTML'
+      - 'CSS'
+      - 'Javascript'
+      - 'React JS'
   # - name: "Compression"
   #   level: "Master"
   #   keywords:
