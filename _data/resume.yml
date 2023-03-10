@@ -56,7 +56,7 @@ publications:
     summary: '책의 내용을 주제로 각 분야별 사람들이 소통하는 앱'
 
   - name: 'DancerFlow'
-    publisher: '팀'
+    publisher: '팀(인원: 2)'
     releaseDate: '2022-12-15'
     website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
     summary: 'TensorFlow를 이용한 춤 자세 확인 앱.'
