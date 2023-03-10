@@ -18,7 +18,7 @@ sitemap: false
 
 # Alexandria
 ## 소개
-- TV 프로그램 "신비한 잡학사전"과 한가지 주제를 갖고 다양한 분야의 사람들과 소통하는 공간을 만들고자 앱을 만들었다.
+- TV 프로그램 "신비한 잡학사전"과 같이 한가지 주제를 갖고 다양한 분야의 사람들과 소통하는 공간을 만들고자 앱을 만들었다.
 ## 기술 스택
 ### 언어
 JS, NodeJS, React, MYSQL
@@ -69,11 +69,13 @@ styled-components
 - 방법 3. CSS white-space: pre-line 사용하기.<br> white-space: pre-line : 연속 공백 유지. 줄 바꿈은 개행 문자와 `<br>` 요소에서 일어나며, 한 줄이 너무 길어서 넘칠 경우 자동으로 줄을 바꿔준다.<br>
 
 #### textarea Submit
-> 문제: 댓글 입력 시 영문은 정상적으로 출력되지만 한글은 마지막 문자가 한번 더 출력된다.
-- 방법 1. event.nativeEvent.isComposing === false<br> 한글로 받은 문자열의 마지막 문자가 조합으로 인식되어 나타나기 때문에 위의 코드를 false로 지정하여 출력한다.
+> 댓글 입력 시 영문은 정상적으로 출력되지만 한글은 마지막 문자가 한번 더 출력된다.<br>
+- 방법 1. event.nativeEvent.isComposing === false<br> 한글로 받은 문자열의 마지막 문자가 조합으로 인식되어 나타나기 때문에 위의 코드를 false로 지정하여 출력한다.<br>
+
 #### textarea 자동 높이 조절
 > 문제: textarea 높이 조절이 되지 않는다.<br>
-- 방법 . useRef를 사용하여 textarea를 참조하고 `textarea.style.height`를 현재`scrollHeight`로 초기화하여 해결 하였다.
+- 방법 . useRef를 사용하여 textarea를 참조하고 `textarea.style.height`를 현재`scrollHeight`로 초기화하여 해결 하였다.<br>
+
 #### delete 후 댓글 중복 작성
 클래스 내부에서 일처리 후 
 
