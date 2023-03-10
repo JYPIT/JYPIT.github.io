@@ -46,7 +46,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Resume
+  - title: 이력서
     url: /resume/
   - title: Projects
     url: /projects/

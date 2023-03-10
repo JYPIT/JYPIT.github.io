@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: 'Park Junyeob'
+  name: '박준엽'
   label: 'Programmer'
   picture: 'https://via.placeholder.com/240x240'
   email: 'rocket.jyp@gmail.com'
@@ -34,7 +34,7 @@ work:
 education:
   - institution: '홍익대학교'
     area: '소프트웨어융합 학과'
-    studyType: 'Bachelor'
+    # studyType: '학사'
     startDate: '2021-03-01'
     endDate: '2023-02-01'
     # gpa: '4.0'
@@ -59,7 +59,7 @@ publications:
     publisher: '팀(인원: 2)'
     releaseDate: '2022-12-15'
     website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
-    summary: 'TensorFlow를 이용한 춤 자세 확인 앱.'
+    summary: 'TensorFlow를 이용한 춤 동작 비교 앱.'
 
 skills:
   - name: 'HTML5 & CSS'
