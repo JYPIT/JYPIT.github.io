@@ -18,6 +18,8 @@ sitemap: false
 
 # Alexandria
 
+## 기술 스택
+
 ## Express
 
 ## API 선정 기준
@@ -79,3 +81,8 @@ multersms input 태그의 name이나 FormData 안의 key값을 통해 파일을 
 ## ERROR
 ### blocked by CORS policy
 방법 1. JSONP
+
+## 나아갈 방향
+
+### Chat Bot
+###
