@@ -70,11 +70,10 @@ styled-components
 
 #### textarea Submit
 > 문제: 댓글 입력 시 영문은 정상적으로 출력되지만 한글은 마지막 문자가 한번 더 출력된다.
-> 방법 1. event.nativeEvent.isComposing === false
->> 한글로 받은 문자열의 마지막 문자가 조합으로 인식되어 나타나기 때문에 위의 코드를 false로 지정하여 출력한다.
+- 방법 1. event.nativeEvent.isComposing === false<br> 한글로 받은 문자열의 마지막 문자가 조합으로 인식되어 나타나기 때문에 위의 코드를 false로 지정하여 출력한다.
 #### textarea 자동 높이 조절
-> 문제: textarea 높이 조절이 되지 않는다.
-> 방법 . useRef를 사용하여 textarea를 참조하고 `textarea.style.height`를 현재`scrollHeight`로 초기화하여 해결 하였다.
+> 문제: textarea 높이 조절이 되지 않는다.<br>
+- 방법 . useRef를 사용하여 textarea를 참조하고 `textarea.style.height`를 현재`scrollHeight`로 초기화하여 해결 하였다.
 #### delete 후 댓글 중복 작성
 클래스 내부에서 일처리 후 
 
