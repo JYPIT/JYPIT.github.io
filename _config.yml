@@ -16,11 +16,12 @@ url: https://jypit.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang: kr
+lang: ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Eclipse
 
+timezone: Asia/Seoul
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
@@ -102,7 +103,7 @@ font: Noto Sans, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code: Fira Code, Menlo, Monaco, Consolas, monospace;
+font_code: JetBrains Mono, Nanum Gothic Coding, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # You can use this to provide a default accent color and background for
