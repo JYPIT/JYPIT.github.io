@@ -20,14 +20,17 @@ sitemap: false
 ## 소개
 - TV 프로그램 "신비한 잡학사전"과 한가지 주제를 갖고 다양한 분야의 사람들과 소통하는 공간을 만들고자 앱을 만들었다.
 ## 기술 스택
+### 언어
 JS, NodeJS, React, MYSQL
+### 프레임워크
+### 라이브러리 
 
 ## Express
 
 ## BOOK API 선정 기준
 
 ## 초반 구성
-프론트를 먼저 구성
+DB 관련<br> 
 Firebase
 - Real Time DB
 - Auth
@@ -40,7 +43,7 @@ styled-components
 좀 더 빠르고 직관적으로 코드를 짜기 위해 사용 하였다.
 
 ## 문제와 해결
-### Client
+### Front
 ### 새로고침 시 user 정보 공백이 생김
 >문제 새로고침을 하면 `AuthContext`가 리렌더링되면서 user 정보를 다시 가져온다.<br>
 이 부분에서 user의 정보가 잠시 사라진다.
