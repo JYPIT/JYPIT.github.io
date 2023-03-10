@@ -17,15 +17,14 @@ sitemap: false
 {:toc}
 
 # Alexandria
-## 소개
+## 제작 동기
 - TV 프로그램 "신비한 잡학사전"과 같이 한가지 주제를 갖고 다양한 분야의 사람들과 소통하는 공간을 만들고자 앱을 만들었다.
+
 ## 기술 스택
 ### 언어
 JS, NodeJS, React, MYSQL
 ### 프레임워크
 ### 라이브러리 
-
-## Express
 
 ## BOOK API 선정 기준
 
@@ -34,6 +33,7 @@ DB 관련<br>
 Firebase
 - Real Time DB
 - Auth
+
 ## 후반 구성
 Mysql
 - DB 구성
@@ -44,12 +44,13 @@ styled-components
 
 ## 문제와 해결
 ### Client
+
 #### [User] 새로고침 시 user 정보 공백이 생김
->새로고침 시 `AuthContext`가 리렌더링되면서 user 정보를 다시 가져온다.<br>
-이 부분에서 user의 정보가 잠시 사라진다.
+>새로고침 시 `AuthContext`가 리렌더링되면서 user 정보를 다시 가져온다.<br> 이 부분에서 user의 정보가 잠시 사라진다.
 
 - 방법 1. user 상태의 초기값을 {} 빈 객체로 설정하고 user를 일시적으로 true로 반환하게 한 후 받아온다.
 - 방법 2. login 시 user를 localStorage에 저장하여 리렌러딩에 상관없이 유지한다 .
+
 #### 페이지 이동 시 Scroll 위치
 > 문제: 페이지 이동 시 scroll이 이동 전 위치에 머물러 있다.
 
