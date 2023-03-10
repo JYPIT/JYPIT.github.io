@@ -31,35 +31,49 @@ work:
     highlights:
       - 'Built an algorithm for artist to detect if their music was violating copy right infringement laws'
 
-# education:
-#   - institution: "University of Oklahoma"
-#     area: "Information Technology"
-#     studyType: "Bachelor"
-#     startDate: "2011-06-01"
-#     endDate: "2014-01-01"
-#     gpa: "4.0"
-#     courses:
-#       - "DB1101 - Basic SQL"
-#       - "CS2011 - Java Introduction"
+education:
+  - institution: '홍익대학교'
+    area: '소프트웨어융합 학과'
+    studyType: 'Bachelor'
+    startDate: '2021-03'
+    endDate: '2023-02'
+    # gpa: '4.0'
+    # courses:
+    #   - 'DB1101 - Basic SQL'
+    #   - 'CS2011 - Java Introduction'
+
 awards:
   - title: '육군본부정보화부장상'
     date: '2021-12-15'
     awarder: '홍익대학교'
     summary: 'DancerFlow'
+
 publications:
-  - name: 'Video compression for 3d media'
-    publisher: 'Hooli'
-    releaseDate: '2014-10-01'
+  - name: 'Alexandria'
+    publisher: '개인'
+    releaseDate: '2023-02-10'
     website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
-    summary: 'Innovative middle-out compression algorithm that changes the way we store data.'
+    summary: '책의 내용을 주제로 각 분야별 사람들이 소통하는 앱'
+
+  - name: 'DancerFlow'
+    publisher: '팀'
+    releaseDate: '2022-12-15'
+    website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
+    summary: 'TensorFlow를 이용한 춤 자세 확인 앱.'
+
 skills:
-  - name: 'Web Development'
+  - name: 'HTML5 & CSS'
     level: 'Junior'
-    keywords:
-      - 'HTML'
-      - 'CSS'
-      - 'Javascript'
-      - 'React JS'
+
+  - name: 'JavaScript(ES6)'
+    level: 'Junior'
+
+  - name: 'REACT'
+    level: 'Junior'
+
+  - name: 'MYSQL'
+    level: 'Junior'
+
   # - name: "Compression"
   #   level: "Master"
   #   keywords:
