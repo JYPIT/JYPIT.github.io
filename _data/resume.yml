@@ -29,7 +29,7 @@ work:
     summary: >
       (주)툰스퀘어에서 앱을 정식 배포하기 전 버그 수정 및 기능 구현 업무를 담당.
     highlights:
-      - 'Built an algorithm for artist to detect if their music was violating copy right infringement laws'
+      - '...'
 
 education:
   - institution: '홍익대학교(세종)'
@@ -46,7 +46,8 @@ awards:
   - title: '육군본부정보화부장상'
     date: '2021-12-15'
     awarder: '홍익대학교'
-    summary: 'DancerFlow'
+    project: 'DancerFlow'
+    summary: 'TensorFlow를 이용한 춤 동작 비교 앱.'
 
 publications:
   - name: 'Alexandria'
