@@ -564,7 +564,7 @@ Add the following to the front matter to add all 4 buttons:
 # file: "resume.md"
 buttons:
   print: true
-  pdf: /assets/Resume.pdf
+  pdf: /assets/resume.pdf
   vcf: http://h2vx.com/vcf/<!--url-->
   json: /assets/resume.json
 ```
