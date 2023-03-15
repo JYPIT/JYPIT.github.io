@@ -35,8 +35,8 @@ education:
   - institution: '홍익대학교(세종)'
     area: '소프트웨어융합'
     # studyType: '학사'
-    startDate: '2021-03-01'
-    endDate: '2023-02-01'
+    startDate: '2020-03-01'
+    endDate: '2022-02-01'
     # gpa: '4.0'
     # courses:
     #   - 'DB1101 - Basic SQL'
@@ -46,20 +46,20 @@ awards:
   - title: '육군본부정보화부장상'
     date: '2021-12-15'
     awarder: '홍익대학교'
-    project: 'DancerFlow'
+    name: 'DancerFlow'
     summary: 'TensorFlow를 이용한 춤 동작 비교 앱.'
 
 publications:
   - name: 'Alexandria'
     publisher: '개인'
     releaseDate: '2023-02-10'
-    website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
+    website: 'https://jypit.github.io/resume/'
     summary: '책의 내용을 주제로 각 분야별 사람들이 소통하는 앱'
 
   - name: 'DancerFlow'
     publisher: '팀(인원: 2)'
     releaseDate: '2022-12-15'
-    website: 'https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)'
+    website: 'https://jypit.github.io/resume/'
     summary: 'TensorFlow를 이용한 춤 동작 비교 앱.'
 
 skills:
@@ -89,8 +89,9 @@ skills:
 #     keywords:
 #       - "Ferrets"
 #       - "Unicorns"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.
+references:
+  - name: '빅데이터 분석 기반 비즈니스 개발자 양성 과정'
+    startDate: '2021-5-07'
+    endDate: '2021-10-30'
+    reference: >
+      빅데이터
