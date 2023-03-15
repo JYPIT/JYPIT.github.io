@@ -185,7 +185,7 @@ The table below shows what's included in each version:
 
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
-[resume]: https://hydejack.com/resume/
+[resume]: https://jypit.github.io/resume/
 [download]: https://hydejack.com/download/
 [welcome]: https://hydejack.com/
 [forms]: https://hydejack.com/forms-by-example/

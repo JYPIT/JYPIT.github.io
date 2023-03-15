@@ -10,9 +10,9 @@ basics:
   website: 'https://github.com/JYPIT'
   summary: >
     경험을 바탕으로 성장하는 주니어 개발자입니다.
-  location:
-    countryCode: 'KR'
-    region: 'Yongin'
+  # location:
+  # countryCode: 'KR'
+  # region: '용인시'
   profiles:
     - network: 'Github'
       username: 'Github'
@@ -73,7 +73,7 @@ skills:
     level: 'amateur'
 
   - name: 'MYSQL'
-    level: 'amateur'
+    level: 'Junior'
 
   # - name: "Compression"
   #   level: "Master"
@@ -90,8 +90,8 @@ skills:
 #       - "Ferrets"
 #       - "Unicorns"
 references:
-  - name: '빅데이터 분석 기반 비즈니스 개발자 양성 과정'
+  - name: '빅데이터 분석 기반 비즈니스 개발자 양성 과정1234'
     startDate: '2021-5-07'
     endDate: '2021-10-30'
     reference: >
-      빅데이터
+      빅데이터 분석 기반 비즈니스 개발자 양성 과정
