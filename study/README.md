@@ -76,6 +76,10 @@ permalink: /study/
 * [MySQL]{:.heading.flip-title} --- MySQL에 대해 알아보고 사용해보기. 
 {:.related-posts.faded}
 
+## Deploy
+* [GCP]{:.heading.flip-title} --- GCP에 대해 알아보고 배포해보기. 
+{:.related-posts.faded}
+
 # Etc
 ## Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
@@ -157,6 +161,9 @@ permalink: /study/
 
 <!-- SQL -->
 [MySQL 기초]: 2023-01-03-mysql.md
+
+<!-- Deploy -->
+[GCP]: 2023-03-01-GCP.md
 
 <!-- Linux -->
 [WSL]: 2022-01-01-wsl.md
