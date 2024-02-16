@@ -4,7 +4,7 @@ title: 'Cinema Paradiso'
 caption: 영화 앱.
 description: >
   영화 앱
-date: 1 July 2022
+date: 1 Dec 2022
 image: 
   path: /assets/img/project_img/cinema-paradiso.jpg
 #   srcset: 

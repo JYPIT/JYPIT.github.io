@@ -14,6 +14,10 @@ permalink: /study/
 0. this unordered seed list will be replaced by toc as unordered list 
 {:toc}
 
+# 프론트엔드 & 백엔드
+* [프론트엔드 & 백엔드]{:.heading.flip-title} --- 프론트엔드와 백엔드란 무엇인가.
+{:.related-posts.faded}
+
 # Front-end
 ## HTML
 * [HTML 기본 요소]{:.heading.flip-title} --- HTML 구조와 기본 요소들.
@@ -109,10 +113,16 @@ permalink: /study/
 * [Errors]{:.heading.flip-title} --- 작업하면서 만난 에러들.
 {:.related-posts.faded}
 
+
+
+
+<!-- Front-end & Back-end --->
+[프론트엔드 & 백엔드]: 2024-02-16-front&back.md
+
 <!-- HTML -->
-[HTML 기본 요소]: 2020-06-01-html기초1.md
-[HTML Head 설정]: 2020-06-02-html기초2.md
-[More Tags]: 2020-06-03-html기초3.md
+[HTML 기본 요소]: 2020-06-01-html기초I.md
+[HTML Head 설정]: 2020-06-02-html기초II.md
+[More Tags]: 2020-06-03-html기초III.md
 
 <!-- CSS -->
 [Reset CSS]: 2020-07-01-reset.md
@@ -157,7 +167,6 @@ permalink: /study/
 [GraphQL 기초]: 2022-10-01-graphql.md
 
 <!-- DB -->
-[DBMS]
 
 <!-- SQL -->
 [MySQL 기초]: 2023-01-03-mysql.md

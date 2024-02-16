@@ -4,7 +4,7 @@ title: 'Online Community: Agora'
 caption: 온라인 커뮤니티 앱.
 description: >
   프로젝트
-date: '02-01-2022'
+date: 1 Oct 2022
 image: 
   path: /assets/img/project_img/agora.jpg
 #   srcset: 

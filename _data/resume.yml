@@ -25,7 +25,7 @@ basics:
       username: 'Naver Blog'
       url: 'https://blog.naver.com/jypit'
 work:
-  # - company: '(주)툰스퀘어'
+  -  #company: '(주)툰스퀘어'
   #   position: '인턴'
   #   website: 'https://tooning.io/tooning-landing-main'
   #   startDate: '2021-9-27'
@@ -47,7 +47,7 @@ education:
     #   - 'CS2011 - Java Introduction'
 
 awards:
-#   - title: '육군본부정보화부장상'
+  -  #title: '육군본부정보화부장상'
 #     date: '2021-12-15'
 #     awarder: '홍익대학교'
 #     name: 'DancerFlow'
@@ -66,19 +66,17 @@ awards:
 #     website: 'https://jypit.github.io/resume/'
 #     summary: 'TensorFlow의 Posenet 모델을 이용한 춤 동작 비교 앱.'
 
-# skills:
-#   - name: 'HTML5 & CSS'
-#     level: 'Junior'
+skills:
+  - name: 'JAVA'
+    level: 'Junior'
+  - name: 'JavaScript(ES6)'
+    level: 'Junior'
 
-#   - name: 'JavaScript(ES6)'
-#     level: 'Junior'
+  - name: 'REACT'
+    level: 'Junior'
 
-#   - name: 'REACT'
-#     level: 'Junior'
-
-#   - name: 'MYSQL'
-#     level: 'Junior'
-
+  - name: 'MYSQL'
+    level: 'Junior'
 # - name: "Compression"
 #   level: "Master"
 #   keywords:

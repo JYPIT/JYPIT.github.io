@@ -70,10 +70,10 @@ react native mmkv storage
 - flex
 원하는 비율대로 box를 설정할 수 있다.
 ```js
-<View style={{ flex: 1 }}>
-  <View style={{ flex: 1, backgroundColor: "tomato" }}></View>
-  <View style={{ flex: 1.5, backgroundColor: "teal" }}></View>
-  <View style={{ flex: 1, backgroundColor: "orange" }}></View>
+<View style={% raw %}{{ flex: 1 }}{% endraw %}>
+  <View style={% raw %}{{ flex: 1, backgroundColor: "tomato" }}{% endraw %}></View>
+  <View style={% raw %}{{ flex: 1.5, backgroundColor: "teal" }}{% endraw %}></View>
+  <View style={% raw %}{{ flex: 1, backgroundColor: "orange" }}{% endraw %}></View>
 </View>
 ```
 
