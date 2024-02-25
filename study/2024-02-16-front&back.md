@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "프론트엔드 & 백엔드"
+title: "프론트엔드? OR 백엔드?"
 author: author1
 comments: true
 description: >
@@ -11,7 +11,8 @@ sitemap: true
 * this unordered seed list will be replaced by the toc
 {:toc}
 
-![츨처: https://www.webcreek.com/](/assets/study/front%26back_Image/front%26back.png)
+![image](/assets/study/front%26back_Image/front%26back.png)
+
 > 위의 이미지는 빙산에 비유하여 프론트엔드와 백엔드를 한눈에 보여준다.
 
 ## 프론트엔드 Front-End
@@ -59,3 +60,6 @@ sitemap: true
 그 속의 복잡한 부품들로 동작하듯이 백에서 구축한 서버나 유지보수를 통해 끊임없이 사용자에게 <br>
 최적의 서비스를 제공하는 것에 매력을 느끼게 되었다.<br>
 &nbsp;&nbsp;점점 IT 서비스의 규모가 커지고 있는 가운데 서버 구축 및 관리하기 위해 백엔드에 대해 더 깊이 알아보고자 한다.<br>
+
+## 어떤 백엔드 개발자가 될 것인가
+&nbsp;&nbsp;

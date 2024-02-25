@@ -21,8 +21,12 @@ permalink: /study/
 ## 자료구조
 
 * [자료구조]{:.heading.flip-title} --- 자료구조에 대해 알아보기. 
-* [배열 & 연결리스트]{:.heading.flip-title} --- 배열과 연결리스트. 
-{:.related-posts.faded}
+
+### 선형자료구조
+* [배열 & 연결리스트]{:.heading.flip-title} --- 배열과 연결리스트.
+* [스택 & 큐 & 데크]{:.heading.flip-title} --- 자료구조에 대해 알아보기.
+
+### 비선형자구조
 
 ## 알고리즘
 * [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
@@ -30,7 +34,6 @@ permalink: /study/
 * [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 탐색 공부. 
 * [Sort]{:.heading.flip-title} --- 정렬 공부. 
-{:.related-posts.faded}
 
 ## 프론트엔드
 ### HTML
@@ -126,7 +129,10 @@ permalink: /study/
 
 <!-- Data Structrue -->
 [자료구조]: 2024-02-18-자료구조.md
+<!-- 선형 자료구조 -->
 [배열 & 연결리스트]: 2024-02-19-배열&연결리스트.md
+[스택 & 큐 & 데크]: 2024-02-22-큐&스택&데크.md
+<!-- 비선형 자료구조 -->
 
 <!-- Algorithm -->
 [Algorithm Basic]: 2022-04-01-algorithm-basic.md

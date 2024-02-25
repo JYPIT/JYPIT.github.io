@@ -30,7 +30,7 @@ description: >
 tagline: The things we lose have a way of coming back<br>to us in the end,<br>if not always in the way we expect.
 
 # A list of keywords for your blog
-keywords: []
+keywords: [Frontend, Backend, Java, JavaScript]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -63,7 +63,7 @@ legal:
     url: https://github.com/JYPIT
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright: © 2021. ECLIPSE
+copyright: © 2022. JYP
 
 # Format of the permalinks
 permalink: /:categories/:year-:month-:day-:title/
