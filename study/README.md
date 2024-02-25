@@ -26,13 +26,14 @@ permalink: /study/
 * [배열 & 연결리스트]{:.heading.flip-title} --- 배열과 연결리스트.
 * [스택 & 큐 & 데크]{:.heading.flip-title} --- 자료구조에 대해 알아보기.
 
-### 비선형자구조
+### 비선형자료구조
 
 ## 알고리즘
 * [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
 * [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
 * [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 탐색 공부. 
+* [이진탐색]{:.heading.flip-title} --- 이진탐색 공부. 
 * [Sort]{:.heading.flip-title} --- 정렬 공부. 
 
 ## 프론트엔드
@@ -137,9 +138,11 @@ permalink: /study/
 <!-- Algorithm -->
 [Algorithm Basic]: 2022-04-01-algorithm-basic.md
 [Greedy]: 2022-04-02-greedy.md
-[Search]: 2022-05-01-search.md
 [Sort]: 2022-05-02-sort.md
+[Search]: 2022-05-01-search.md
+[이진탐색]: 2024-02-24-이진탐색.md
 [DFS&BFS]: 2022-04-03-dfs&bfs.md
+
 
 <!-- HTML -->
 [HTML 기본 요소]: 2020-06-01-html기초I.md
