@@ -27,9 +27,10 @@ permalink: /study/
 * [스택 & 큐 & 데크]{:.heading.flip-title} --- 자료구조에 대해 알아보기.
 
 ### 비선형자료구조
+* [트리]{:.heading.flip-title} --- 트리에 대해 알아보기.
 
 ## 알고리즘
-* [Algorithm Basic]{:.heading.flip-title} --- 알고리즘 기초.
+* [Algorithm Basic]{:.heading.flip-title} --- 알고리즘이란.
 * [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
 * [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 탐색 공부. 
@@ -133,8 +134,10 @@ permalink: /study/
 <!-- 선형 자료구조 -->
 [배열 & 연결리스트]: 2024-02-19-배열&연결리스트.md
 [스택 & 큐 & 데크]: 2024-02-22-큐&스택&데크.md
+
 <!-- 비선형 자료구조 -->
 
+[트리]:2024-02-23-트리.md
 <!-- Algorithm -->
 [Algorithm Basic]: 2022-04-01-algorithm-basic.md
 [Greedy]: 2022-04-02-greedy.md
@@ -143,6 +146,7 @@ permalink: /study/
 [이진탐색]: 2024-02-24-이진탐색.md
 [DFS&BFS]: 2022-04-03-dfs&bfs.md
 
+<!-- ------------------------ -->
 
 <!-- HTML -->
 [HTML 기본 요소]: 2020-06-01-html기초I.md
@@ -165,6 +169,8 @@ permalink: /study/
 [User]: 2021-01-07-user.md
 [FileUpload]: 2021-01-08-fileUpload.md
 [WebPack]: 2021-01-09-webpack.md
+
+<!-- ------------------------ -->
 
 <!-- TS 기초 -->
 [TypeScript 기초]: 2021-02-01-ts기초.md
@@ -207,8 +213,12 @@ permalink: /study/
 [MySQL 기초]: 2023-01-03-mysql.md
 [GraphQL 기초]: 2022-10-01-graphql.md
 
+<!-- ------------------------ -->
+
 <!-- Git -->
 [Git 사용법]: 2022-09-01-git.md
+
+<!-- ------------------------ -->
 
 <!-- Error -->
 [Errors]: 2022-12-25-error.md
