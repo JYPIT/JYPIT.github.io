@@ -31,12 +31,12 @@ permalink: /study/
 
 ## 알고리즘
 * [Algorithm Basic]{:.heading.flip-title} --- 알고리즘이란.
-* [Greedy]{:.heading.flip-title} --- 그리디 알고리즘.
-* [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
 * [Search]{:.heading.flip-title} --- 탐색 공부. 
 * [이진탐색]{:.heading.flip-title} --- 이진탐색 공부. 
 * [Sort]{:.heading.flip-title} --- 정렬 공부. 
 * [투포인터]{:.heading.flip-title} --- 투포인터 공부. 
+* [DFS&BFS]{:.heading.flip-title} --- BFS & DFS.
+* [그리디]{:.heading.flip-title} --- 그리디 공부.
 
 ## 프론트엔드
 ### HTML
@@ -109,8 +109,8 @@ permalink: /study/
 ## Error
 * [Errors]{:.heading.flip-title} --- 작업하면서 만난 에러들.
 
-
-
+* [Markdown Basic]{:.heading.flip-title} --- 마크다운 구문I.
+* [Markdown Writing]{:.heading.flip-title} --- 마크다운 구문II.
 
 <!-- Front-end & Back-end --->
 [프론트엔드 & 백엔드]: 2024-02-16-front&back.md
@@ -126,12 +126,12 @@ permalink: /study/
 
 <!-- Algorithm -->
 [Algorithm Basic]: 2022-04-01-algorithm-basic.md
-[Greedy]: 2022-04-02-greedy.md
 [Sort]: 2022-05-02-sort.md
 [Search]: 2022-05-01-search.md
 [이진탐색]: 2024-02-24-이진탐색.md
 [투포인터]: 2024-02-26-투포인터.md
 [DFS&BFS]: 2022-04-03-dfs&bfs.md
+[그리디]: 2024-03-01-그리디.md
 
 <!-- ------------------------ -->
 
@@ -209,4 +209,5 @@ permalink: /study/
 
 <!-- Error -->
 [Errors]: 2022-12-25-error.md
-
+[Markdown Basic]: basics.md
+[Markdown Writing]: writing.md
