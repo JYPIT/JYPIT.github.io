@@ -25,6 +25,7 @@ GEM
     connection_pool (2.4.1)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
+    domain_name (0.6.20240107)
     drb (2.2.0)
       ruby2_keywords
     em-websocket (0.5.3)
@@ -36,8 +37,23 @@ GEM
     execjs (2.9.1)
     faraday (2.9.0)
       faraday-net_http (>= 2.0, < 3.2)
+    faraday-cookie_jar (0.0.7)
+      faraday (>= 0.8.0)
+      http-cookie (~> 1.0.0)
+    faraday-encoding (0.0.5)
+      faraday
+    faraday-follow_redirects (0.3.0)
+      faraday (>= 1, < 3)
+    faraday-gzip (1.0.0)
+      faraday (>= 1.0)
+      zlib (~> 2.1)
+    faraday-http-cache (2.5.1)
+      faraday (>= 0.8)
     faraday-net_http (3.1.0)
       net-http
+    faraday-retry (2.2.0)
+      faraday (~> 2.0)
+    fastimage (2.3.0)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -95,6 +111,8 @@ GEM
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    http-cookie (1.0.5)
+      domain_name (~> 0.5)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -136,6 +154,9 @@ GEM
       octokit (>= 4, < 7, != 4.4.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-linkpreview (0.7.0)
+      jekyll (>= 3.5, < 5.0)
+      metainspector (~> 5.9)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -217,12 +238,25 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    metainspector (5.15.0)
+      addressable (~> 2.8.4)
+      faraday (~> 2.5)
+      faraday-cookie_jar (~> 0.0)
+      faraday-encoding (~> 0.0)
+      faraday-follow_redirects (~> 0.3)
+      faraday-gzip (>= 0.1, < 2.0)
+      faraday-http-cache (~> 2.5)
+      faraday-retry (~> 2.0)
+      fastimage (~> 2.2)
+      nesty (~> 1.0)
+      nokogiri (~> 1.13)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.22.2)
     mutex_m (0.2.0)
+    nesty (1.0.2)
     net-http (0.4.1)
       uri
     nokogiri (1.16.2-aarch64-linux)
@@ -274,6 +308,7 @@ GEM
     unicode-display_width (1.8.0)
     uri (0.13.0)
     webrick (1.8.1)
+    zlib (2.1.1)
 
 PLATFORMS
   aarch64-linux
@@ -287,7 +322,11 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.8)
   jekyll-compose
+  jekyll-feed
   jekyll-include-cache
+  jekyll-linkpreview
+  jekyll-seo-tag
+  jekyll-sitemap
   webrick
 
 BUNDLED WITH
