@@ -20,24 +20,20 @@ cover: true
 ### 스프링의 특징과 구조
 #### 제어 역전 | IoC (Inversion Of Control)
 
-> IoC를 적용한 환경에서는 사용할 객체를 직접 생성하지 않고 객체의 생명주기 관리를 **외부^[1]**에 위임.
-> IoC를 통해 DI, AOP 등이 가능.
-
-**[1]외부 : 스프링 컨테이너 또는 IoC 컨테이너**<br>
+> IoC를 적용한 환경에서는 사용할 객체를 직접 생성하지 않고 객체의 생명주기 관리를 **외부**에 위임.<br>IoC를 통해 DI, AOP 등이 가능.
+**외부 : 스프링 컨테이너 또는 IoC 컨테이너**<br>
+<hr>
 
 #### 의존성 주입 | DI (Dependency Injection)
 > 제어 역전의 방법 중 하나로 외부 컨테이너가 생성한 객체를 주입받아 사용하는 방식.
 
 ##### 의존성 주입 받는 방법
-> 생성자를 통한 의존성 주입
+- 생성자를 통한 의존성 주입
 ![image](/assets/study/spring/springBoot/di_constructor.png)
-
-> 필드 객체 선얼을 통한 의존성 주입
+- 필드 객체 선얼을 통한 의존성 주입
 ![image](/assets/study/spring/springBoot/di_field.png)
-
-> setter 메서드를 통한 의존성 주입
+- setter 메서드를 통한 의존성 주입<br>
 ![image](/assets/study/spring/springBoot/di_setter.png)
-
 <hr>
 
 #### 관점 지향 프로그래밍 | AOP (Aspect Oriented Programming)
