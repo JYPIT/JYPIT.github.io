@@ -47,12 +47,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: 이력서
-    url: /resume/
+  # - title: 이력서
+  #   url: /resume/
   - title: 프로젝트
     url: /projects/
   - title: 실습
     url: /posts/
+  - title: 지식
+    url: /blog/
   - title: 공부
     url: /study/
 

@@ -18,9 +18,13 @@ permalink: /study/
 * [프론트엔드 & 백엔드]{:.heading.flip-title} --- 프론트엔드와 백엔드란 무엇인가.
 {:.related-posts.faded}
 
-## 자료구조
+## 컴퓨터 공학
+* [컴퓨터 구조]{:.heading.flip-title} --- 컴퓨터 구조에 대해 알아보기. 
+* [논리 게이트]{:.heading.flip-title} --- 논리 게이트에 대해 알아보기. 
 
-* [자료구조]{:.heading.flip-title} --- 자료구조에 대해 알아보기. 
+## 자료 구조
+
+* [자료 구조]{:.heading.flip-title} --- 자료구조에 대해 알아보기. 
 
 ### 선형자료구조
 * [배열 & 연결리스트]{:.heading.flip-title} --- 배열과 연결리스트.
@@ -83,6 +87,11 @@ permalink: /study/
 * [REST]{:.heading.flip-title} --- REST에 대해 알아보기.
 * [Authorization]{:.heading.flip-title} --- Authorization에 대해 알아보기.
 
+### JAVA
+
+### Spring
+* [Spring Boot]{:.heading.flip-title} --- 스프링 부트 핵심 가이드 책을 통해 스프링 부트에 대해 알아보기.
+
 ## 데이터베이스
 
 ### Query Language
@@ -106,17 +115,29 @@ permalink: /study/
 ### Linux
 * [WSL]{:.heading.flip-title} --- WSL을 이용하여 Linux에 대해 알아보기. 
 
-## Error
+## WHY...?
+* [Why]{:.heading.flip-title} --- ???????.
 * [Errors]{:.heading.flip-title} --- 작업하면서 만난 에러들.
+* [Fomula]{:.heading.flip-title} --- 알아두면 좋은 공식 모음.
 
 * [Markdown Basic]{:.heading.flip-title} --- 마크다운 구문I.
 * [Markdown Writing]{:.heading.flip-title} --- 마크다운 구문II.
+
+
+
+
+
+
+
+<!-- 컴퓨터 공학 -->
+[컴퓨터 구조]: [컴퓨터공학]01컴퓨터구조.md
+[논리 게이트]: [컴퓨터공학]02논리게이트.md
 
 <!-- Front-end & Back-end --->
 [프론트엔드 & 백엔드]: 2024-02-16-front&back.md
 
 <!-- Data Structrue -->
-[자료구조]: 2024-02-18-자료구조.md
+[자료 구조]: 2024-02-18-자료구조.md
 <!-- 선형 자료구조 -->
 [배열 & 연결리스트]: 2024-02-19-배열&연결리스트.md
 [스택 & 큐 & 데크]: 2024-02-22-큐&스택&데크.md
@@ -181,6 +202,9 @@ permalink: /study/
 [REST]: 2022-09-18-rest.md
 [Authorization]: 2022-09-19-authorization.md
 
+<!-- Spring -->
+[Spring Boot]: [Spring]스프링부트_핵심_가이드_01.md
+
 <!-- DB -->
 
 <!-- Deploy -->
@@ -192,6 +216,8 @@ permalink: /study/
 <!-- Language -->
 <!-- Python -->
 [Python Basic]: 2022-03-01-python-basic.md
+
+<!-- Java -->
 
 <!-- Linux -->
 [WSL]: 2022-01-01-wsl.md
@@ -211,3 +237,8 @@ permalink: /study/
 [Errors]: 2022-12-25-error.md
 [Markdown Basic]: basics.md
 [Markdown Writing]: writing.md
+
+
+<!-- Computer Science -->
+[Why]: [WHY]why.md
+[Fomula]: [WHY]fomula.md
