@@ -30,7 +30,7 @@ cover: true
 ##### 의존성 주입 받는 방법
 - 생성자를 통한 의존성 주입
 ![image](/assets/study/spring/springBoot/di_constructor.png)
-- 필드 객체 선얼을 통한 의존성 주입
+- 필드 객체 선언을 통한 의존성 주입
 ![image](/assets/study/spring/springBoot/di_field.png)
 - setter 메서드를 통한 의존성 주입<br>
 ![image](/assets/study/spring/springBoot/di_setter.png)
@@ -43,12 +43,11 @@ cover: true
 ##### AOP 구현하는 방법 세가지
 - 컴파일 과정에 삽입하는 방식
 - 바이트코드를 메모리에 로드하는 과정에 삽입하는 방식
-- 프락시 패턴을 이용한 방식
-
+- 프록시 패턴을 이용한 방식
 <hr>
 
 ## 스프링 부트(Spring Boot)
-- 스프링이 제공하는 다양한 프로젝트 중 하나로 모듈 추가로 인해 설정이 복잡해지는 문제를 해결하기 위해 등장.
+> 스프링이 제공하는 다양한 프로젝트 중 하나로 모듈 추가로 인해 설정이 복잡해지는 문제를 해결하기 위해 등장.
 
 ### 스프링 부트의 특징
 #### 의존성 관리
