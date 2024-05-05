@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Spring] Spring & Spring Boot"
+title: "[Spring] 스프링 부트"
 author: author1
 comments: true
 description: >

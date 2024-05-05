@@ -90,7 +90,9 @@ permalink: /study/
 ### JAVA
 
 ### Spring
-* [Spring Boot]{:.heading.flip-title} --- 스프링 부트 핵심 가이드 책을 통해 스프링 부트에 대해 알아보기.
+* [스프링 부트란]{:.heading.flip-title} --- 스프링 부트에 대해 알아보기.
+* [스프링 부트 시작하기]{:.heading.flip-title} --- 스프링 부트 애플리케이션 만들기.
+* [API 작성하기]{:.heading.flip-title} --- HTTP 메서드에 해당하는 API 작성하기.
 
 ## 데이터베이스
 
@@ -203,7 +205,9 @@ permalink: /study/
 [Authorization]: 2022-09-19-authorization.md
 
 <!-- Spring -->
-[Spring Boot]: [Spring]스프링부트_핵심_가이드_01.md
+[스프링 부트란]: [Spring]스프링부트_핵심_가이드_01.md
+[스프링 부트 시작하기]: [Spring]스프링부트_핵심_가이드_02.md
+[API 작성하기]: [Spring]스프링부트_핵심_가이드_03.md
 
 <!-- DB -->
 
