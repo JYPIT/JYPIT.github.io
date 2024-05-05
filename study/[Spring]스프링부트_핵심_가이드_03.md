@@ -75,9 +75,10 @@ public class DiaryController {
 }
 ```
 > @RequestParam
- - url에서 
+- HTTP 요청의 쿼리 파라미터(query parameter)를 메서드 매개변수에 매핑하는 데 사용.
 
 > @RequestBody
+-  HTTP 요청의 본문(body)을 메서드 매개변수에 매핑하는 데 사용.
 
 #### PUT API
 > 같은 저장소에 존재하는 리소스 값을 업데이트 하는데 사용하는 API.
@@ -124,7 +125,7 @@ public class DiaryController {
 ```
 <hr>
 
-### DTO 객체를 활용한 GET 메서드 구현
+### DTO 
 > DTO(Data Transfer Object)는 다른 레이어  간의 데이터 교환에 활용하며<br>각 클래스 및 인터페이스를 호출하면서 전달하는 매개변수로 사용되는 데이터 객체.
 
 - 데이터를 교환하는 용도
@@ -193,7 +194,11 @@ public class SwaggerConfig {
 - 저장된 로그 파일에 대한 보관 기간 등을 설정해서 관리 가능.
 
 #### Logback 설정 예시
-```java
+
+<details>
+<summary>펼치기</summary>
+<div markdown="1">
+```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <configuration>
     <property name="LOGS_PATH" value="./logs"/>
@@ -256,6 +261,8 @@ public class SwaggerConfig {
     </root>
 </configuration>
 ```
+</div>
+</details>
 
 <hr>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296591989">스프링 부트 핵심 가이드</a> 책을 기반으로 작성하였습니다.
