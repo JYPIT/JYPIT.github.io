@@ -18,7 +18,7 @@ $navbar-height: 5rem;
 // <<< inline
 .fixed-common {
   position: fixed;
-  left: 0;
+  left: -100px;
   width: 100%;
   z-index: 2;
 }
