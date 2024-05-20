@@ -35,7 +35,7 @@ keywords: [Frontend, Backend, Java, JavaScript]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: \assets\img\eclipse.gif
+# logo: \assets\img\eclipse.gif
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -77,7 +77,7 @@ paginate_path: /posts/page/:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-jack
+theme: jekyll-theme-jack
 # remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
