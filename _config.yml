@@ -27,7 +27,7 @@ timezone: Asia/Seoul
 description: >
 
 # A shorter description for the sidebar.
-tagline: The things we lose have a way of coming back<br>to us in the end,<br>if not always in the way we expect.
+tagline: 블로그 이전 >>> https://blubincod.github.io 
 
 # A list of keywords for your blog
 keywords: [Frontend, Backend, Java, JavaScript]
@@ -40,8 +40,8 @@ logo: \assets\img\eclipse.gif
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: <Junyeob> <Park>
-  email: <rocket.jyp@gmail.com>
+  # name: <Junyeob> <Park>
+  # email: <rocket.jyp@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -170,14 +170,14 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics: G-WC7ZXHL0ZS
+# google_analytics: G-WC7ZXHL0ZS
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-comments:
-  provider: disqus
+# comments:
+  # provider: disqus
 
-disqus: Eclipse
+# disqus: Eclipse
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
